@@ -11,7 +11,7 @@ def get_data():
 
     x = datetime.datetime.now()
     dt_string = x.strftime("%Y-%m-%d-%H-%M-%S")
-    f = open(dt_string+".txt", "a")
+    f = open("data/"+dt_string+".txt", "a+")
     for entity in feed.entity:
         if entity.HasField('trip_update'):
           f.write(repr(entity.trip_update))
