@@ -1,0 +1,12546 @@
+trip {
+  trip_id: "1340206"
+  start_time: "21:56:00"
+  start_date: "20201126"
+  route_id: "33"
+}
+stop_time_update {
+  stop_sequence: 2
+  departure {
+    time: 1606445899
+  }
+  stop_id: "WESTSAR2"
+}
+stop_time_update {
+  stop_sequence: 3
+  departure {
+    time: 1606445936
+  }
+  stop_id: "WESTSAR4"
+}
+stop_time_update {
+  stop_sequence: 4
+  departure {
+    time: 1606446043
+  }
+  stop_id: "PLATTRO2"
+}
+stop_time_update {
+  stop_sequence: 5
+  departure {
+    time: 1606446127
+  }
+  stop_id: "CHERPLA2"
+}
+stop_time_update {
+  stop_sequence: 6
+  departure {
+    time: 1606446164
+  }
+  stop_id: "CHERCHC4"
+}
+stop_time_update {
+  stop_sequence: 7
+  departure {
+    time: 1606446210
+  }
+  stop_id: "CHERCHBL"
+}
+stop_time_update {
+  stop_sequence: 8
+  departure {
+    time: 1606446271
+  }
+  stop_id: "CHEROXF2"
+}
+stop_time_update {
+  stop_sequence: 9
+  departure {
+    time: 1606446382
+  }
+  stop_id: "BEAVOXF2"
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446467
+  }
+  stop_id: "PROUBEA2"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446540
+  }
+  stop_id: "FOREHIL2"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446597
+  }
+  stop_id: "PROUOXF3"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446676
+  }
+  stop_id: "OXFOWON2"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446712
+  }
+  stop_id: "WONDFAR5"
+}
+stop_time_update {
+  stop_sequence: 15
+  arrival {
+    time: 1606446780
+  }
+  stop_id: "FARRPROU"
+}
+vehicle {
+  id: "3026"
+  label: "26"
+}
+timestamp: 1606446448
+trip {
+  trip_id: "1339279"
+  start_time: "21:41:00"
+  start_date: "20201126"
+  route_id: "27"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446377
+  }
+  stop_id: "UNIVSUN2"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446474
+  }
+  stop_id: "MIDDPERT"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446555
+  }
+  stop_id: "NATSCI"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446642
+  }
+  stop_id: "WESTELG3"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446754
+  }
+  stop_id: "WESTLAM2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446855
+  }
+  stop_id: "SARNWES2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446913
+  }
+  stop_id: "SARNBRES"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446971
+  }
+  stop_id: "SARNSLEI"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447038
+  }
+  stop_id: "SARNLEYT"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447121
+  }
+  stop_id: "WONDSAR2"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447224
+  }
+  stop_id: "BEAVBLYT"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447247
+  }
+  stop_id: "BEAVCAP1"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447262
+  }
+  stop_id: "CAPUBLSM"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447301
+  }
+  stop_id: "CAPUCAPW"
+}
+stop_time_update {
+  stop_sequence: 39
+  arrival {
+    time: 1606447335
+  }
+  stop_id: "CAPUOXFO"
+}
+vehicle {
+  id: "3120"
+  label: "120"
+}
+timestamp: 1606446445
+trip {
+  trip_id: "1339352"
+  start_time: "21:56:00"
+  start_date: "20201126"
+  route_id: "27"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446327
+  }
+  stop_id: "WESTPHA3"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446445
+  }
+  stop_id: "ALUMHAL1"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446570
+  }
+  stop_id: "LAMBMID1"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446629
+  }
+  stop_id: "UNIVSUN1"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446681
+  }
+  stop_id: "UNIVRIC1"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446734
+  }
+  stop_id: "HURORIC1"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446785
+  }
+  stop_id: "HUROWAT1"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446820
+  }
+  stop_id: "HUROCOLB"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446872
+  }
+  stop_id: "MAITREGE"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446909
+  }
+  stop_id: "REGEWILL"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446990
+  }
+  stop_id: "ADELHUR1"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606447050
+  }
+  stop_id: "ADELHUR5"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606447110
+  }
+  stop_id: "KIPPADEL"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606447153
+  }
+  stop_id: "KIPPBELF"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447211
+  }
+  stop_id: "KIPPBARK"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447277
+  }
+  stop_id: "BARKMELS"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447321
+  }
+  stop_id: "BARKHURO"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447384
+  }
+  stop_id: "HUROBRI3"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447410
+  }
+  stop_id: "HUROBRI1"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447448
+  }
+  stop_id: "HUROMCN1"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447481
+  }
+  stop_id: "HUROVES1"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447530
+  }
+  stop_id: "HUROHIG1"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447559
+  }
+  stop_id: "HUROHIG3"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447611
+  }
+  stop_id: "HUROWEB1"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447664
+  }
+  stop_id: "HUROSAN1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447704
+  }
+  stop_id: "SANDBEC2"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447775
+  }
+  stop_id: "FCBLCHE2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447819
+  }
+  stop_id: "FCBLFLE2"
+}
+stop_time_update {
+  stop_sequence: 39
+  arrival {
+    time: 1606447890
+  }
+  stop_id: "FANCOLL4"
+}
+vehicle {
+  id: "3125"
+  label: "125"
+}
+timestamp: 1606446448
+trip {
+  trip_id: "1347435"
+  start_time: "21:53:00"
+  start_date: "20201126"
+  route_id: "02"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446720
+  }
+  stop_id: "ARGYMAL2"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446778
+  }
+  stop_id: "DUNDCLK4"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446834
+  }
+  stop_id: "DUNDBEA2"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446901
+  }
+  stop_id: "DUNDTHR"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446956
+  }
+  stop_id: "DUNDBUR2"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606447007
+  }
+  stop_id: "DUNDFIR2"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606447063
+  }
+  stop_id: "DUNDHAL2"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447088
+  }
+  stop_id: "DUNDHAL4"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447140
+  }
+  stop_id: "DUNDHIG2"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447195
+  }
+  stop_id: "DUNDASH4"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447240
+  }
+  stop_id: "DUNDMCOR"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447277
+  }
+  stop_id: "DUNDDORI"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447308
+  }
+  stop_id: "DUNDEGE2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447334
+  }
+  stop_id: "DUNDQUE2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447366
+  }
+  stop_id: "DUNDONT2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447396
+  }
+  stop_id: "DUNDREC2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447428
+  }
+  stop_id: "DUNDENGL"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447461
+  }
+  stop_id: "DUNDELIZ"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447500
+  }
+  stop_id: "DUNDADE2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447526
+  }
+  stop_id: "DUNDWIL2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447563
+  }
+  stop_id: "DUNDMAI2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447601
+  }
+  stop_id: "DUNDCOL2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447639
+  }
+  stop_id: "DUNDWAT2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447680
+  }
+  stop_id: "DUNDWEL2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447749
+  }
+  stop_id: "QUEECLAR"
+}
+stop_time_update {
+  stop_sequence: 43
+  arrival {
+    time: 1606447800
+  }
+  stop_id: "QUEERIC1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447800
+  }
+  stop_id: "QUEERIC1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447832
+  }
+  stop_id: "QUEETALB"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447861
+  }
+  stop_id: "QUENRIDO"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447943
+  }
+  stop_id: "RIVEWIL2"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447976
+  }
+  stop_id: "RIVEWHA2"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606448011
+  }
+  stop_id: "WHARMPL1"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606448044
+  }
+  stop_id: "WHARMOIR"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606448093
+  }
+  stop_id: "WHAREMPR"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606448160
+  }
+  stop_id: "WHAROXF1"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606448190
+  }
+  stop_id: "WESTESSE"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606448215
+  }
+  stop_id: "WESTHOL1"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448242
+  }
+  stop_id: "WESTPLA1"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606448280
+  }
+  stop_id: "WESTPHA1"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606448332
+  }
+  stop_id: "WESTPHA3"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606448439
+  }
+  stop_id: "ALUMHAL1"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606448570
+  }
+  stop_id: "MIDDPERT"
+}
+stop_time_update {
+  stop_sequence: 60
+  arrival {
+    time: 1606448640
+  }
+  stop_id: "NATSCI"
+}
+vehicle {
+  id: "3131"
+  label: "131"
+}
+timestamp: 1606446447
+trip {
+  trip_id: "1346645"
+  start_time: "21:40:00"
+  start_date: "20201126"
+  route_id: "19"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446420
+  }
+  stop_id: "SEAGHYPK"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446420
+  }
+  stop_id: "HYDENRN2"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446420
+  }
+  stop_id: "HYDENRSL"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446420
+  }
+  stop_id: "HYDEGAI2"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446420
+  }
+  stop_id: "HYDESCA2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446488
+  }
+  stop_id: "HYDESAR2"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606446576
+  }
+  stop_id: "HYDEFITZ"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446607
+  }
+  stop_id: "HYDEIVA2"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606446651
+  }
+  stop_id: "HYDEROY2"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606446690
+  }
+  stop_id: "HYDEOXF2"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606446735
+  }
+  stop_id: "HYDEFIG2"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606446772
+  }
+  stop_id: "VALEHYP1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606446788
+  }
+  stop_id: "VALEWOO1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606446806
+  }
+  stop_id: "VALEPLA1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606446831
+  }
+  stop_id: "VALESAL1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606446843
+  }
+  stop_id: "VALEHIB1"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606446856
+  }
+  stop_id: "VALEOPK2"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606446879
+  }
+  stop_id: "VALEDER1"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606446893
+  }
+  stop_id: "VALECRAM"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606446924
+  }
+  stop_id: "VALESHR1"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606446960
+  }
+  stop_id: "VALEOAKR"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606446981
+  }
+  stop_id: "KINGOAK1"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606447009
+  }
+  stop_id: "KINGWON1"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606447050
+  }
+  stop_id: "RIVEWON1"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606447082
+  }
+  stop_id: "RIVEBRE1"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606447121
+  }
+  stop_id: "RIVEORI1"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606447175
+  }
+  stop_id: "RIVEBEA1"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606447249
+  }
+  stop_id: "RIVEMURD"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606447279
+  }
+  stop_id: "RIVEWOO1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606447301
+  }
+  stop_id: "RIVECAVE"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606447350
+  }
+  stop_id: "RIVEWHA1"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606447367
+  }
+  stop_id: "RIVEWIL1"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606447414
+  }
+  stop_id: "DUNDRIDO"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606447440
+  }
+  stop_id: "KINGTALB"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606447470
+  }
+  stop_id: "KINGRIC1"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606447504
+  }
+  stop_id: "KINGCLAR"
+}
+stop_time_update {
+  stop_sequence: 69
+  arrival {
+    time: 1606447530
+  }
+  stop_id: "WELLDUN3"
+}
+vehicle {
+  id: "3132"
+  label: "132"
+}
+timestamp: 1606446449
+trip {
+  trip_id: "1343288"
+  start_time: "20:48:00"
+  start_date: "20201126"
+  route_id: "10"
+  direction_id: 7
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606446265
+  }
+  stop_id: "SOUTKOR1"
+}
+stop_time_update {
+  stop_sequence: 71
+  departure {
+    time: 1606446276
+  }
+  stop_id: "SOUTPOM1"
+}
+stop_time_update {
+  stop_sequence: 72
+  departure {
+    time: 1606446348
+  }
+  stop_id: "PONDPONV"
+}
+stop_time_update {
+  stop_sequence: 73
+  departure {
+    time: 1606446381
+  }
+  stop_id: "PONDMIR3"
+}
+stop_time_update {
+  stop_sequence: 74
+  departure {
+    time: 1606446406
+  }
+  stop_id: "PONDMIR1"
+}
+stop_time_update {
+  stop_sequence: 75
+  departure {
+    time: 1606446450
+  }
+  stop_id: "PONDDEV1"
+}
+stop_time_update {
+  stop_sequence: 76
+  departure {
+    time: 1606446471
+  }
+  stop_id: "PONDBAN1"
+}
+stop_time_update {
+  stop_sequence: 77
+  departure {
+    time: 1606446529
+  }
+  stop_id: "PONDOLDH"
+}
+stop_time_update {
+  stop_sequence: 78
+  departure {
+    time: 1606446577
+  }
+  stop_id: "COMMPOM3"
+}
+stop_time_update {
+  stop_sequence: 79
+  departure {
+    time: 1606446720
+  }
+  stop_id: "COMMDEV1"
+}
+stop_time_update {
+  stop_sequence: 80
+  departure {
+    time: 1606446764
+  }
+  stop_id: "COMMHIG1"
+}
+stop_time_update {
+  stop_sequence: 81
+  departure {
+    time: 1606446966
+  }
+  stop_id: "HIGBHAM1"
+}
+stop_time_update {
+  stop_sequence: 82
+  departure {
+    time: 1606446985
+  }
+  stop_id: "HIGBMAGE"
+}
+stop_time_update {
+  stop_sequence: 83
+  departure {
+    time: 1606447026
+  }
+  stop_id: "HIGBTRA1"
+}
+stop_time_update {
+  stop_sequence: 84
+  departure {
+    time: 1606447080
+  }
+  stop_id: "HIGBBRY1"
+}
+stop_time_update {
+  stop_sequence: 85
+  departure {
+    time: 1606447147
+  }
+  stop_id: "HIGBWIL1"
+}
+stop_time_update {
+  stop_sequence: 86
+  departure {
+    time: 1606447213
+  }
+  stop_id: "HIGBBEA1"
+}
+stop_time_update {
+  stop_sequence: 87
+  departure {
+    time: 1606447320
+  }
+  stop_id: "HIGBDUN1"
+}
+stop_time_update {
+  stop_sequence: 88
+  departure {
+    time: 1606447421
+  }
+  stop_id: "HIGBLPH1"
+}
+stop_time_update {
+  stop_sequence: 89
+  departure {
+    time: 1606447494
+  }
+  stop_id: "HIGBOXF1"
+}
+stop_time_update {
+  stop_sequence: 90
+  departure {
+    time: 1606447522
+  }
+  stop_id: "HIGBOXF3"
+}
+stop_time_update {
+  stop_sequence: 91
+  departure {
+    time: 1606447574
+  }
+  stop_id: "HIGBLAN1"
+}
+stop_time_update {
+  stop_sequence: 92
+  departure {
+    time: 1606447609
+  }
+  stop_id: "HIGBCHE1"
+}
+stop_time_update {
+  stop_sequence: 93
+  departure {
+    time: 1606447647
+  }
+  stop_id: "HIGBGOD1"
+}
+stop_time_update {
+  stop_sequence: 94
+  departure {
+    time: 1606447693
+  }
+  stop_id: "HIGBHURO"
+}
+stop_time_update {
+  stop_sequence: 95
+  departure {
+    time: 1606447735
+  }
+  stop_id: "HIGBHIC1"
+}
+stop_time_update {
+  stop_sequence: 96
+  departure {
+    time: 1606447764
+  }
+  stop_id: "HIGBFUL1"
+}
+stop_time_update {
+  stop_sequence: 97
+  departure {
+    time: 1606447830
+  }
+  stop_id: "FULLVES2"
+}
+stop_time_update {
+  stop_sequence: 98
+  departure {
+    time: 1606447866
+  }
+  stop_id: "FULLREGA"
+}
+stop_time_update {
+  stop_sequence: 99
+  departure {
+    time: 1606447908
+  }
+  stop_id: "MCNAMEL2"
+}
+stop_time_update {
+  stop_sequence: 100
+  departure {
+    time: 1606447935
+  }
+  stop_id: "MELSBRIA"
+}
+stop_time_update {
+  stop_sequence: 101
+  departure {
+    time: 1606447981
+  }
+  stop_id: "MELSSUSS"
+}
+stop_time_update {
+  stop_sequence: 102
+  arrival {
+    time: 1606448040
+  }
+  stop_id: "BARKHURO"
+}
+vehicle {
+  id: "3134"
+  label: "134"
+}
+timestamp: 1606446472
+trip {
+  trip_id: "1347445"
+  start_time: "21:48:00"
+  start_date: "20201126"
+  route_id: "02"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446107
+  }
+  stop_id: "DUNDASH4"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446107
+  }
+  stop_id: "DUNDMCOR"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446137
+  }
+  stop_id: "DUNDDORI"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446168
+  }
+  stop_id: "DUNDEGE2"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446194
+  }
+  stop_id: "DUNDQUE2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446226
+  }
+  stop_id: "DUNDONT2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446256
+  }
+  stop_id: "DUNDREC2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446288
+  }
+  stop_id: "DUNDENGL"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446321
+  }
+  stop_id: "DUNDELIZ"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446360
+  }
+  stop_id: "DUNDADE2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446386
+  }
+  stop_id: "DUNDWIL2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446423
+  }
+  stop_id: "DUNDMAI2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446461
+  }
+  stop_id: "DUNDCOL2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446499
+  }
+  stop_id: "DUNDWAT2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446540
+  }
+  stop_id: "DUNDWEL2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446609
+  }
+  stop_id: "QUEECLAR"
+}
+stop_time_update {
+  stop_sequence: 36
+  arrival {
+    time: 1606446660
+  }
+  stop_id: "QUEERIC1"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446660
+  }
+  stop_id: "QUEERIC1"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446691
+  }
+  stop_id: "QUEETALB"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606446720
+  }
+  stop_id: "QUENRIDO"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446806
+  }
+  stop_id: "RIVEWIL2"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606446839
+  }
+  stop_id: "RIVEWHA2"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606446874
+  }
+  stop_id: "WHARMPL1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606446906
+  }
+  stop_id: "WHARMOIR"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606446955
+  }
+  stop_id: "WHAREMPR"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447020
+  }
+  stop_id: "WHAROXF1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447050
+  }
+  stop_id: "WESTESSE"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447075
+  }
+  stop_id: "WESTHOL1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447102
+  }
+  stop_id: "WESTPLA1"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447140
+  }
+  stop_id: "WESTPHA1"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447192
+  }
+  stop_id: "WESTPHA3"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447298
+  }
+  stop_id: "ALUMHAL1"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447428
+  }
+  stop_id: "MIDDPERT"
+}
+stop_time_update {
+  stop_sequence: 53
+  arrival {
+    time: 1606447500
+  }
+  stop_id: "NATSCI"
+}
+vehicle {
+  id: "3139"
+  label: "139"
+}
+timestamp: 1606446473
+trip {
+  trip_id: "1339924"
+  start_time: "21:57:00"
+  start_date: "20201126"
+  route_id: "31"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446352
+  }
+  stop_id: "ALDESPR2"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446392
+  }
+  stop_id: "ALDELAW2"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446415
+  }
+  stop_id: "ALDEBARR"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446462
+  }
+  stop_id: "ALDEAURO"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446509
+  }
+  stop_id: "SARNALD1"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446556
+  }
+  stop_id: "SARNWON1"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446600
+  }
+  stop_id: "SARNCAS1"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446647
+  }
+  stop_id: "SARNRIPP"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446701
+  }
+  stop_id: "SARNCAS3"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446748
+  }
+  stop_id: "SARNCOOM"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446780
+  }
+  stop_id: "SARNWES1"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446834
+  }
+  stop_id: "WESTPHA3"
+}
+stop_time_update {
+  stop_sequence: 23
+  arrival {
+    time: 1606446960
+  }
+  stop_id: "ALUMHAL2"
+}
+vehicle {
+  id: "3144"
+  label: "144"
+}
+timestamp: 1606446446
+trip {
+  trip_id: "1344752"
+  start_time: "22:05:00"
+  start_date: "20201126"
+  route_id: "05"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 2
+  departure {
+    time: 1606446435
+  }
+  stop_id: "COMMSTEP"
+}
+stop_time_update {
+  stop_sequence: 3
+  departure {
+    time: 1606446469
+  }
+  stop_id: "GRIFCOMM"
+}
+stop_time_update {
+  stop_sequence: 4
+  departure {
+    time: 1606446502
+  }
+  stop_id: "GRIFHEMO"
+}
+stop_time_update {
+  stop_sequence: 5
+  departure {
+    time: 1606446545
+  }
+  stop_id: "GRIFNORM"
+}
+stop_time_update {
+  stop_sequence: 6
+  departure {
+    time: 1606446599
+  }
+  stop_id: "GRIFBBA2"
+}
+stop_time_update {
+  stop_sequence: 7
+  departure {
+    time: 1606446633
+  }
+  stop_id: "GRIFFAIR"
+}
+stop_time_update {
+  stop_sequence: 8
+  departure {
+    time: 1606446680
+  }
+  stop_id: "GRIFDEA2"
+}
+stop_time_update {
+  stop_sequence: 9
+  departure {
+    time: 1606446699
+  }
+  stop_id: "GRIFWIDD"
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446742
+  }
+  stop_id: "GRIFROBW"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446786
+  }
+  stop_id: "GRIFBOLE"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446809
+  }
+  stop_id: "BOLEGRIF"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446852
+  }
+  stop_id: "BOLEWAYN"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446904
+  }
+  stop_id: "BOLEBASE"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446941
+  }
+  stop_id: "BOLEGLEN"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446960
+  }
+  stop_id: "BOLECOM1"
+}
+stop_time_update {
+  stop_sequence: 17
+  arrival {
+    time: 1606446990
+  }
+  stop_id: "COMMBOL1"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606447980
+  }
+  stop_id: "COMMBOL1"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606448012
+  }
+  stop_id: "COMMSPR1"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606448049
+  }
+  stop_id: "COMMNASH"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606448075
+  }
+  stop_id: "COMMNOR1"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606448124
+  }
+  stop_id: "SPRICOM1"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606448150
+  }
+  stop_id: "SPRIWES1"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606448186
+  }
+  stop_id: "SPRIWES3"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606448235
+  }
+  stop_id: "SPRIHIC1"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606448267
+  }
+  stop_id: "SPRIJAR1"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606448291
+  }
+  stop_id: "SPRIQUI1"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606448340
+  }
+  stop_id: "SPRIWON1"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606448363
+  }
+  stop_id: "SPRIBER1"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606448404
+  }
+  stop_id: "SPRIBER3"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606448444
+  }
+  stop_id: "SPRIMAR1"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606448491
+  }
+  stop_id: "SPRIKER1"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606448535
+  }
+  stop_id: "SPRIGROW"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606448595
+  }
+  stop_id: "SPRIGRE1"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606448638
+  }
+  stop_id: "SPRISPRI"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606448706
+  }
+  stop_id: "HORTWHA3"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606448756
+  }
+  stop_id: "STANWHAR"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606448776
+  }
+  stop_id: "STANPERR"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606448807
+  }
+  stop_id: "STANWORT"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606448831
+  }
+  stop_id: "YORKTHA1"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606448860
+  }
+  stop_id: "RIDOYOR2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606448892
+  }
+  stop_id: "KINGTALB"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 43
+  arrival {
+    time: 1606448940
+  }
+  stop_id: "KINGRICH"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606448940
+  }
+  stop_id: "KINGRICH"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606449004
+  }
+  stop_id: "KINGCLAR"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606449060
+  }
+  stop_id: "WELLYOR2"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606449139
+  }
+  stop_id: "HORTWELL"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606449215
+  }
+  stop_id: "HORTCOL2"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606449264
+  }
+  stop_id: "HORTMAIT"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606449325
+  }
+  stop_id: "HAMIWIL1"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606449360
+  }
+  stop_id: "HAMIADE1"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606449410
+  }
+  stop_id: "HAMIMAME"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606449458
+  }
+  stop_id: "HAMIREC1"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606449517
+  }
+  stop_id: "HAMISAC1"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606449551
+  }
+  stop_id: "HAMIEGE1"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606449612
+  }
+  stop_id: "HAMITENN"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606449645
+  }
+  stop_id: "HAMISJU1"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606449698
+  }
+  stop_id: "HAMIPILA"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606449744
+  }
+  stop_id: "HAMIGIL1"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606449780
+  }
+  stop_id: "HAMIHIG1"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606449803
+  }
+  stop_id: "HALEHAM2"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606449853
+  }
+  stop_id: "HALEMAG2"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606449875
+  }
+  stop_id: "TWEEFAI2"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606449909
+  }
+  stop_id: "TWEEMAN2"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606449927
+  }
+  stop_id: "TWEEBER2"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606449969
+  }
+  stop_id: "MANITWE2"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606450006
+  }
+  stop_id: "MONTTWE2"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606450043
+  }
+  stop_id: "MONTELD2"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606450056
+  }
+  stop_id: "GOREVAL2"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606450097
+  }
+  stop_id: "GOREBRA2"
+}
+stop_time_update {
+  stop_sequence: 71
+  departure {
+    time: 1606450130
+  }
+  stop_id: "GOREFIR2"
+}
+stop_time_update {
+  stop_sequence: 72
+  departure {
+    time: 1606450198
+  }
+  stop_id: "CLARGORE"
+}
+stop_time_update {
+  stop_sequence: 73
+  departure {
+    time: 1606450217
+  }
+  stop_id: "CLARFIS1"
+}
+stop_time_update {
+  stop_sequence: 74
+  departure {
+    time: 1606450278
+  }
+  stop_id: "CLARCHA3"
+}
+stop_time_update {
+  stop_sequence: 75
+  departure {
+    time: 1606450320
+  }
+  stop_id: "CLARCHA1"
+}
+stop_time_update {
+  stop_sequence: 76
+  departure {
+    time: 1606450362
+  }
+  stop_id: "CLARTRA1"
+}
+stop_time_update {
+  stop_sequence: 77
+  departure {
+    time: 1606450413
+  }
+  stop_id: "CLARROY1"
+}
+stop_time_update {
+  stop_sequence: 78
+  departure {
+    time: 1606450439
+  }
+  stop_id: "CLARROY3"
+}
+stop_time_update {
+  stop_sequence: 79
+  departure {
+    time: 1606450459
+  }
+  stop_id: "CLARWAV1"
+}
+stop_time_update {
+  stop_sequence: 80
+  departure {
+    time: 1606450491
+  }
+  stop_id: "CLARCHU1"
+}
+stop_time_update {
+  stop_sequence: 81
+  arrival {
+    time: 1606450560
+  }
+  stop_id: "ARGYMAL1"
+}
+vehicle {
+  id: "3145"
+  label: "145"
+}
+timestamp: 1606446455
+trip {
+  trip_id: "1335179"
+  start_time: "21:24:00"
+  start_date: "20201126"
+  route_id: "13"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606446407
+  }
+  stop_id: "UNIVHOS1"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606446428
+  }
+  stop_id: "PERTWIN1"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606446482
+  }
+  stop_id: "RICHWIN1"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606446512
+  }
+  stop_id: "RICHWEC1"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606446541
+  }
+  stop_id: "RICHCANT"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606446590
+  }
+  stop_id: "RICHSUNN"
+}
+stop_time_update {
+  stop_sequence: 71
+  arrival {
+    time: 1606446675
+  }
+  stop_id: "MASOSTO5"
+}
+vehicle {
+  id: "3162"
+  label: "162"
+}
+timestamp: 1606446471
+trip {
+  trip_id: "1342604"
+  start_time: "21:57:00"
+  start_date: "20201126"
+  route_id: "01"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446457
+  }
+  stop_id: "COLBPIC2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446492
+  }
+  stop_id: "COLBPAM2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446552
+  }
+  stop_id: "COLBCEN2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446583
+  }
+  stop_id: "COLBHOPE"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446622
+  }
+  stop_id: "COLBDUFF"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446673
+  }
+  stop_id: "DUFFWATS"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446709
+  }
+  stop_id: "DUFFWEL2"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446765
+  }
+  stop_id: "WELLQUE2"
+}
+stop_time_update {
+  stop_sequence: 30
+  arrival {
+    time: 1606446795
+  }
+  stop_id: "WELLDUN2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446960
+  }
+  stop_id: "WELLDUN2"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446986
+  }
+  stop_id: "WELLYOR2"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447043
+  }
+  stop_id: "HORTWELL"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447098
+  }
+  stop_id: "HORTCOL2"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447170
+  }
+  stop_id: "GREYWATE"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447214
+  }
+  stop_id: "WELLGRE2"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447250
+  }
+  stop_id: "WELLSOU2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447305
+  }
+  stop_id: "WELLGRA2"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447340
+  }
+  stop_id: "WELLCOLG"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447378
+  }
+  stop_id: "WELLWELL"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447464
+  }
+  stop_id: "WELLPERC"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447503
+  }
+  stop_id: "BASEWEL1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447560
+  }
+  stop_id: "BASEFAI1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447596
+  }
+  stop_id: "WESTBAS1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447618
+  }
+  stop_id: "WESTWHE1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447648
+  }
+  stop_id: "WESTTHO1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447685
+  }
+  stop_id: "THOMADE1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447710
+  }
+  stop_id: "THOMEME1"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447749
+  }
+  stop_id: "THOMCHE1"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447763
+  }
+  stop_id: "THOMGLA1"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447790
+  }
+  stop_id: "THOMKED1"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447858
+  }
+  stop_id: "PONDSCE2"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606447922
+  }
+  stop_id: "PONDAILS"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606447980
+  }
+  stop_id: "PONDCLE2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448040
+  }
+  stop_id: "BURLPOMI"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606448053
+  }
+  stop_id: "SHELBUR2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606448069
+  }
+  stop_id: "SHELODEL"
+}
+stop_time_update {
+  stop_sequence: 58
+  arrival {
+    time: 1606448100
+  }
+  stop_id: "SHELDEVE"
+}
+vehicle {
+  id: "3170"
+  label: "170"
+}
+timestamp: 1606446453
+trip {
+  trip_id: "1346619"
+  start_time: "21:43:00"
+  start_date: "20201126"
+  route_id: "19"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446181
+  }
+  stop_id: "HYDEOXF3"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446196
+  }
+  stop_id: "HYDEROY1"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446227
+  }
+  stop_id: "HYDEIVAN"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446247
+  }
+  stop_id: "HYDEPRIP"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446310
+  }
+  stop_id: "HYDESAR1"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446378
+  }
+  stop_id: "HYDESCA1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446420
+  }
+  stop_id: "HYDEGAI1"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446457
+  }
+  stop_id: "HYDENRN1"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446525
+  }
+  stop_id: "SEAGHYP1"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606446555
+  }
+  stop_id: "STANFAN1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446579
+  }
+  stop_id: "FANSDAL2"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606446610
+  }
+  stop_id: "FANSDAL3"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606446654
+  }
+  stop_id: "FANSALD1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606446685
+  }
+  stop_id: "FANSFOX1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606446740
+  }
+  stop_id: "FANSWON1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606446817
+  }
+  stop_id: "FANSPIN2"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606446885
+  }
+  stop_id: "FANSLOU1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606446945
+  }
+  stop_id: "FANSRIC4"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447052
+  }
+  stop_id: "FANSNCR1"
+}
+stop_time_update {
+  stop_sequence: 49
+  arrival {
+    time: 1606447125
+  }
+  stop_id: "FANSNCR3"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447125
+  }
+  stop_id: "FANSNCR3"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447163
+  }
+  stop_id: "FANSHAS3"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447203
+  }
+  stop_id: "HASTDONY"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606447228
+  }
+  stop_id: "HASTVIR1"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606447267
+  }
+  stop_id: "HASTCHA1"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606447301
+  }
+  stop_id: "CHAMSAND"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606447326
+  }
+  stop_id: "CHAMSKYL"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606447353
+  }
+  stop_id: "BLUESUN1"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606447428
+  }
+  stop_id: "SUNNBLAC"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606447497
+  }
+  stop_id: "ADELBLAC"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606447512
+  }
+  stop_id: "BKWTADE1"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606447526
+  }
+  stop_id: "THISBKW1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606447578
+  }
+  stop_id: "THISSWEN"
+}
+stop_time_update {
+  stop_sequence: 63
+  arrival {
+    time: 1606447605
+  }
+  stop_id: "SOWESUNN"
+}
+vehicle {
+  id: "3171"
+  label: "171"
+}
+timestamp: 1606446463
+trip {
+  trip_id: "1343241"
+  start_time: "21:18:00"
+  start_date: "20201126"
+  route_id: "10"
+  direction_id: 8
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606446399
+  }
+  stop_id: "SOUTHOME"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606446444
+  }
+  stop_id: "SOUTWHA4"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606446483
+  }
+  stop_id: "SOUTWHA2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606446541
+  }
+  stop_id: "SOUTNOD2"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606446573
+  }
+  stop_id: "SOUTNOD4"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606446641
+  }
+  stop_id: "SOUTAND2"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606446707
+  }
+  stop_id: "SOUTWON2"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606446745
+  }
+  stop_id: "WONDSDA1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606446795
+  }
+  stop_id: "WONDPVA1"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606446817
+  }
+  stop_id: "WONDMMA3"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606446850
+  }
+  stop_id: "WONDMMA1"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606446975
+  }
+  stop_id: "WESTMAL6"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606447024
+  }
+  stop_id: "WONDVIS3"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606447052
+  }
+  stop_id: "WONDVIL1"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606447094
+  }
+  stop_id: "WONDCOM1"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606447131
+  }
+  stop_id: "WONDCOM3"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606447188
+  }
+  stop_id: "WONDTEE1"
+}
+stop_time_update {
+  stop_sequence: 71
+  departure {
+    time: 1606447275
+  }
+  stop_id: "WONDSPR1"
+}
+stop_time_update {
+  stop_sequence: 72
+  departure {
+    time: 1606447425
+  }
+  stop_id: "WONDRIV1"
+}
+stop_time_update {
+  stop_sequence: 73
+  departure {
+    time: 1606447450
+  }
+  stop_id: "WONDKIW1"
+}
+stop_time_update {
+  stop_sequence: 74
+  departure {
+    time: 1606447494
+  }
+  stop_id: "WONDOXF3"
+}
+stop_time_update {
+  stop_sequence: 75
+  departure {
+    time: 1606447515
+  }
+  stop_id: "WONDOXF1"
+}
+stop_time_update {
+  stop_sequence: 76
+  departure {
+    time: 1606447551
+  }
+  stop_id: "WONDFAR1"
+}
+stop_time_update {
+  stop_sequence: 77
+  departure {
+    time: 1606447583
+  }
+  stop_id: "WONDFAR3"
+}
+stop_time_update {
+  stop_sequence: 78
+  departure {
+    time: 1606447631
+  }
+  stop_id: "WONDBEA1"
+}
+stop_time_update {
+  stop_sequence: 79
+  arrival {
+    time: 1606447755
+  }
+  stop_id: "SARNCAS1"
+}
+stop_time_update {
+  stop_sequence: 80
+  departure {
+    time: 1606447755
+  }
+  stop_id: "SARNCAS1"
+}
+stop_time_update {
+  stop_sequence: 81
+  departure {
+    time: 1606447802
+  }
+  stop_id: "SARNRIPP"
+}
+stop_time_update {
+  stop_sequence: 82
+  departure {
+    time: 1606447856
+  }
+  stop_id: "SARNCAS3"
+}
+stop_time_update {
+  stop_sequence: 83
+  departure {
+    time: 1606447903
+  }
+  stop_id: "SARNCOOM"
+}
+stop_time_update {
+  stop_sequence: 84
+  departure {
+    time: 1606447935
+  }
+  stop_id: "SARNWES1"
+}
+stop_time_update {
+  stop_sequence: 85
+  departure {
+    time: 1606447992
+  }
+  stop_id: "WESTPHA3"
+}
+stop_time_update {
+  stop_sequence: 86
+  departure {
+    time: 1606448110
+  }
+  stop_id: "ALUMHAL1"
+}
+stop_time_update {
+  stop_sequence: 87
+  departure {
+    time: 1606448255
+  }
+  stop_id: "MIDDPERT"
+}
+stop_time_update {
+  stop_sequence: 88
+  arrival {
+    time: 1606448355
+  }
+  stop_id: "NATSCI"
+}
+vehicle {
+  id: "3303"
+  label: "303"
+}
+timestamp: 1606446445
+trip {
+  trip_id: "1330763"
+  start_time: "22:02:00"
+  start_date: "20201126"
+  route_id: "04"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 5
+  departure {
+    time: 1606446325
+  }
+  stop_id: "OXFOWIST"
+}
+stop_time_update {
+  stop_sequence: 6
+  departure {
+    time: 1606446351
+  }
+  stop_id: "OXFOOAKS"
+}
+stop_time_update {
+  stop_sequence: 7
+  departure {
+    time: 1606446389
+  }
+  stop_id: "OXFOCLE2"
+}
+stop_time_update {
+  stop_sequence: 8
+  departure {
+    time: 1606446426
+  }
+  stop_id: "OXFOLYMA"
+}
+stop_time_update {
+  stop_sequence: 9
+  departure {
+    time: 1606446452
+  }
+  stop_id: "OXFOSTUA"
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446486
+  }
+  stop_id: "OXFOQUE2"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446511
+  }
+  stop_id: "OXFOSTE2"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446530
+  }
+  stop_id: "OXFOGAM2"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446576
+  }
+  stop_id: "OXFOELL2"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446610
+  }
+  stop_id: "OXFOELI2"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446660
+  }
+  stop_id: "OXFOADE2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446696
+  }
+  stop_id: "OXFOWIL2"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446737
+  }
+  stop_id: "OXFOMAI2"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446770
+  }
+  stop_id: "OXFOCOL2"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446807
+  }
+  stop_id: "OXFOWAT2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446851
+  }
+  stop_id: "OXFOWEL2"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446900
+  }
+  stop_id: "RICHOXF2"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446949
+  }
+  stop_id: "RICHMILL"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606447018
+  }
+  stop_id: "RICHCENT"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606447065
+  }
+  stop_id: "RICHKEN2"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447109
+  }
+  stop_id: "RICHDUF2"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447140
+  }
+  stop_id: "RICHQUE1"
+}
+stop_time_update {
+  stop_sequence: 27
+  arrival {
+    time: 1606447200
+  }
+  stop_id: "RICHKIN4"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447200
+  }
+  stop_id: "RICHKIN4"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447300
+  }
+  stop_id: "HORTRIC2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447380
+  }
+  stop_id: "RIDOHORT"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447427
+  }
+  stop_id: "RIDOCRA2"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447453
+  }
+  stop_id: "RIDOELMW"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447499
+  }
+  stop_id: "RIDOTEC2"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447537
+  }
+  stop_id: "RIDOWINS"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447566
+  }
+  stop_id: "RIDOEME2"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447602
+  }
+  stop_id: "RIDOROSE"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447627
+  }
+  stop_id: "RIDOBAS2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447654
+  }
+  stop_id: "RIDOMOU2"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447691
+  }
+  stop_id: "UPPECOM2"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447743
+  }
+  stop_id: "UPPECHI4"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447786
+  }
+  stop_id: "CHIDHUN1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447833
+  }
+  stop_id: "CHIDCHID"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447860
+  }
+  stop_id: "WILKCHI2"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447902
+  }
+  stop_id: "SANDWIL2"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447937
+  }
+  stop_id: "SANDVER1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447956
+  }
+  stop_id: "VERUEDEN"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447997
+  }
+  stop_id: "EDENEAS2"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606448031
+  }
+  stop_id: "EDENNIX"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606448066
+  }
+  stop_id: "NIXOCRE2"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606448091
+  }
+  stop_id: "NIXOSDAL"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606448131
+  }
+  stop_id: "ERNEJAL2"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606448156
+  }
+  stop_id: "ERNEELVI"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606448194
+  }
+  stop_id: "ERNEPAUL"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606448239
+  }
+  stop_id: "ERNEBRA2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448264
+  }
+  stop_id: "ERNECON2"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606448310
+  }
+  stop_id: "ERNEFEN2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606448365
+  }
+  stop_id: "ERNESCO1"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606448402
+  }
+  stop_id: "JALNERN5"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606448439
+  }
+  stop_id: "MEGEXE2"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606448491
+  }
+  stop_id: "EXETMEG"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606448537
+  }
+  stop_id: "SHOLEXE1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606448557
+  }
+  stop_id: "SHOLJAL1"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606448587
+  }
+  stop_id: "JALNPIER"
+}
+stop_time_update {
+  stop_sequence: 64
+  arrival {
+    time: 1606448640
+  }
+  stop_id: "WHOKMANB"
+}
+vehicle {
+  id: "3313"
+  label: "313"
+}
+timestamp: 1606446466
+trip {
+  trip_id: "1337257"
+  start_time: "21:35:00"
+  start_date: "20201126"
+  route_id: "17"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606446264
+  }
+  stop_id: "OXFOCAP2"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606446305
+  }
+  stop_id: "OXFOLAR2"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606446347
+  }
+  stop_id: "OXFOGUI2"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606446385
+  }
+  stop_id: "OXFOFRE2"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606446416
+  }
+  stop_id: "OXFOGUI3"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606446440
+  }
+  stop_id: "OXFOFID2"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606446480
+  }
+  stop_id: "OXFOHYD2"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606446493
+  }
+  stop_id: "OXFOROY2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606446512
+  }
+  stop_id: "OXFOROY4"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606446536
+  }
+  stop_id: "OXFOOLH2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606446579
+  }
+  stop_id: "SANISUT2"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606446601
+  }
+  stop_id: "SANIPLY2"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606446610
+  }
+  stop_id: "SANIRIV2"
+}
+stop_time_update {
+  stop_sequence: 60
+  arrival {
+    time: 1606446660
+  }
+  stop_id: "HALLCOMM"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606446960
+  }
+  stop_id: "HALLCOMM"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606447013
+  }
+  stop_id: "COMMSTEP"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606447051
+  }
+  stop_id: "GRIFCOMM"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606447088
+  }
+  stop_id: "GRIFHEMO"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606447136
+  }
+  stop_id: "GRIFNORM"
+}
+stop_time_update {
+  stop_sequence: 66
+  arrival {
+    time: 1606447200
+  }
+  stop_id: "BYBAGRIF"
+}
+vehicle {
+  id: "3320"
+  label: "320"
+}
+timestamp: 1606446473
+trip {
+  trip_id: "1330826"
+  start_time: "21:49:00"
+  start_date: "20201126"
+  route_id: "04"
+}
+stop_time_update {
+  stop_sequence: 30
+  arrival {
+    time: 1606446390
+  }
+  stop_id: "RICHQUEE"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446600
+  }
+  stop_id: "RICHQUEE"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446665
+  }
+  stop_id: "RICHKEN1"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446728
+  }
+  stop_id: "RICHHYM1"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446764
+  }
+  stop_id: "RICHPALL"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446840
+  }
+  stop_id: "OXFORIC1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446859
+  }
+  stop_id: "OXFOWEL1"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446892
+  }
+  stop_id: "OXFOWAT1"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446924
+  }
+  stop_id: "OXFOCOL1"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606446964
+  }
+  stop_id: "OXFOMAI1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446991
+  }
+  stop_id: "OXFOWIL1"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447020
+  }
+  stop_id: "OXFOADE1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447059
+  }
+  stop_id: "OXFOELI1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447094
+  }
+  stop_id: "OXFOELL1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447138
+  }
+  stop_id: "OXFOGAM1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447171
+  }
+  stop_id: "OXFOSTE1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447190
+  }
+  stop_id: "OXFOQUE1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447222
+  }
+  stop_id: "OXFOSTRA"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447243
+  }
+  stop_id: "OXFOFLEE"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447260
+  }
+  stop_id: "OXFOSPIT"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447295
+  }
+  stop_id: "OXFOCLE1"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447332
+  }
+  stop_id: "OXFOEMPI"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447354
+  }
+  stop_id: "OXFOMORN"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606447380
+  }
+  stop_id: "OXFOHIG1"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606447406
+  }
+  stop_id: "OXFOHIG3"
+}
+stop_time_update {
+  stop_sequence: 55
+  arrival {
+    time: 1606447500
+  }
+  stop_id: "FANCOLL2"
+}
+vehicle {
+  id: "3321"
+  label: "321"
+}
+timestamp: 1606446470
+trip {
+  trip_id: "1345750"
+  start_time: "21:50:00"
+  start_date: "20201126"
+  route_id: "15"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446431
+  }
+  stop_id: "RICHGRO2"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446469
+  }
+  stop_id: "RICHJAM2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446536
+  }
+  stop_id: "RICHOXF2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446582
+  }
+  stop_id: "RICHMILL"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446648
+  }
+  stop_id: "RICHCENT"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446693
+  }
+  stop_id: "RICHKEN2"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446734
+  }
+  stop_id: "RICHDUF2"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446840
+  }
+  stop_id: "RICHQUE2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 36
+  arrival {
+    time: 1606446900
+  }
+  stop_id: "RICHKIN4"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446900
+  }
+  stop_id: "RICHKIN4"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447000
+  }
+  stop_id: "HORTRIC2"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447080
+  }
+  stop_id: "RIDOHORT"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447131
+  }
+  stop_id: "RIDOCRA2"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447159
+  }
+  stop_id: "RIDOELMW"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447198
+  }
+  stop_id: "ELMWMARL"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447226
+  }
+  stop_id: "ELMWWORT"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447244
+  }
+  stop_id: "ELMWCATH"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447290
+  }
+  stop_id: "EDWAELMW"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447323
+  }
+  stop_id: "EDWATECU"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447364
+  }
+  stop_id: "EDWALANG"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447415
+  }
+  stop_id: "EDWAHIWY"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447451
+  }
+  stop_id: "EDWABASE"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447500
+  }
+  stop_id: "BASEWHA2"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447549
+  }
+  stop_id: "BASEWES2"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447587
+  }
+  stop_id: "BASEWES4"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606447636
+  }
+  stop_id: "BASECOTS"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606447697
+  }
+  stop_id: "BEACBAS2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606447732
+  }
+  stop_id: "ANDOCOM2"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606447769
+  }
+  stop_id: "ANDOVIG2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606447801
+  }
+  stop_id: "ANDOELMG"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606447862
+  }
+  stop_id: "ANDOVIS2"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606447944
+  }
+  stop_id: "VISCGARD"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606447983
+  }
+  stop_id: "VISCFOXM"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606448040
+  }
+  stop_id: "VISCWON2"
+}
+stop_time_update {
+  stop_sequence: 62
+  arrival {
+    time: 1606448100
+  }
+  stop_id: "WESTMAL3"
+}
+vehicle {
+  id: "3323"
+  label: "323"
+}
+timestamp: 1606446467
+trip {
+  trip_id: "1343707"
+  start_time: "21:45:00"
+  start_date: "20201126"
+  route_id: "93"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446528
+  }
+  stop_id: "HIGVWHA1"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446549
+  }
+  stop_id: "HIGVWHA3"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446577
+  }
+  stop_id: "HIGVROS2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446614
+  }
+  stop_id: "HIGVROS4"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446650
+  }
+  stop_id: "HIGVFER2"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446709
+  }
+  stop_id: "FERNHOM1"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446747
+  }
+  stop_id: "FERNHAM1"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446795
+  }
+  stop_id: "DUNDHARC"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446816
+  }
+  stop_id: "DUNDHIN2"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446850
+  }
+  stop_id: "DUNDSDAL"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446879
+  }
+  stop_id: "JALNJOS2"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446919
+  }
+  stop_id: "JALNJOS4"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446939
+  }
+  stop_id: "JALNERI2"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446990
+  }
+  stop_id: "JALNERI4"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447043
+  }
+  stop_id: "BRADJALN"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447076
+  }
+  stop_id: "BRADERNE"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447130
+  }
+  stop_id: "BRADWOPS"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447197
+  }
+  stop_id: "JALNBRA4"
+}
+stop_time_update {
+  stop_sequence: 31
+  arrival {
+    time: 1606447230
+  }
+  stop_id: "WHOKMASB"
+}
+vehicle {
+  id: "3325"
+  label: "325"
+}
+timestamp: 1606446455
+trip {
+  trip_id: "1343289"
+  start_time: "21:18:00"
+  start_date: "20201126"
+  route_id: "10"
+  direction_id: 7
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606446530
+  }
+  stop_id: "BRADWEL3"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606446569
+  }
+  stop_id: "BRADWIL1"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606446590
+  }
+  stop_id: "BRADAGN1"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606446631
+  }
+  stop_id: "BRADADE1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606446675
+  }
+  stop_id: "BRADADE3"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606446708
+  }
+  stop_id: "ADELOSG5"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606446743
+  }
+  stop_id: "ADELOSG7"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606446805
+  }
+  stop_id: "ADELOSG3"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606446848
+  }
+  stop_id: "SOUTADE1"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606446871
+  }
+  stop_id: "SOUTMIL5"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606446903
+  }
+  stop_id: "SOUTMIL3"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606446960
+  }
+  stop_id: "SOUTMIL1"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606447001
+  }
+  stop_id: "SOUTKOR1"
+}
+stop_time_update {
+  stop_sequence: 71
+  departure {
+    time: 1606447029
+  }
+  stop_id: "SOUTPOM1"
+}
+stop_time_update {
+  stop_sequence: 72
+  departure {
+    time: 1606447091
+  }
+  stop_id: "PONDPONV"
+}
+stop_time_update {
+  stop_sequence: 73
+  departure {
+    time: 1606447119
+  }
+  stop_id: "PONDMIR3"
+}
+stop_time_update {
+  stop_sequence: 74
+  departure {
+    time: 1606447140
+  }
+  stop_id: "PONDMIR1"
+}
+stop_time_update {
+  stop_sequence: 75
+  departure {
+    time: 1606447178
+  }
+  stop_id: "PONDDEV1"
+}
+stop_time_update {
+  stop_sequence: 76
+  departure {
+    time: 1606447196
+  }
+  stop_id: "PONDBAN1"
+}
+stop_time_update {
+  stop_sequence: 77
+  departure {
+    time: 1606447246
+  }
+  stop_id: "PONDOLDH"
+}
+stop_time_update {
+  stop_sequence: 78
+  departure {
+    time: 1606447287
+  }
+  stop_id: "COMMPOM3"
+}
+stop_time_update {
+  stop_sequence: 79
+  departure {
+    time: 1606447320
+  }
+  stop_id: "COMMDEV1"
+}
+stop_time_update {
+  stop_sequence: 80
+  departure {
+    time: 1606447362
+  }
+  stop_id: "COMMHIG1"
+}
+stop_time_update {
+  stop_sequence: 81
+  departure {
+    time: 1606447552
+  }
+  stop_id: "HIGBHAM1"
+}
+stop_time_update {
+  stop_sequence: 82
+  departure {
+    time: 1606447570
+  }
+  stop_id: "HIGBMAGE"
+}
+stop_time_update {
+  stop_sequence: 83
+  departure {
+    time: 1606447620
+  }
+  stop_id: "HIGBTRA1"
+}
+vehicle {
+  id: "3326"
+  label: "326"
+}
+timestamp: 1606446465
+trip {
+  trip_id: "1344581"
+  start_time: "21:54:00"
+  start_date: "20201126"
+  route_id: "03"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446353
+  }
+  stop_id: "HAMIBRA2"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446375
+  }
+  stop_id: "HAMIOAKL"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446402
+  }
+  stop_id: "HAMIVALL"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446450
+  }
+  stop_id: "HAMIWAT2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446476
+  }
+  stop_id: "HAMIYMCA"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446509
+  }
+  stop_id: "HAMIFAI1"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446529
+  }
+  stop_id: "HAMIHALE"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446555
+  }
+  stop_id: "HAMIHIG2"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446568
+  }
+  stop_id: "HAMIGIL2"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446620
+  }
+  stop_id: "HAMIEAST"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446665
+  }
+  stop_id: "HAMISJU2"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446700
+  }
+  stop_id: "HAMIELM"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446752
+  }
+  stop_id: "HAMIEGE2"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446795
+  }
+  stop_id: "HAMISAC2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446858
+  }
+  stop_id: "HAMIREC2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446917
+  }
+  stop_id: "HAMILTGR"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446975
+  }
+  stop_id: "HAMIADE2"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447006
+  }
+  stop_id: "HAMIWIL2"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447037
+  }
+  stop_id: "HORTHAMI"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447074
+  }
+  stop_id: "HORTCOL1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447108
+  }
+  stop_id: "HORTWAT2"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447149
+  }
+  stop_id: "WELLHOR1"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447188
+  }
+  stop_id: "WELLYOR1"
+}
+stop_time_update {
+  stop_sequence: 39
+  arrival {
+    time: 1606447215
+  }
+  stop_id: "WELLDUN3"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447215
+  }
+  stop_id: "WELLDUN3"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447309
+  }
+  stop_id: "QUEECLAR"
+}
+stop_time_update {
+  stop_sequence: 42
+  arrival {
+    time: 1606447395
+  }
+  stop_id: "RICHQUE2"
+  schedule_relationship: SKIPPED
+}
+vehicle {
+  id: "3327"
+  label: "327"
+}
+timestamp: 1606446450
+trip {
+  trip_id: "1334505"
+  start_time: "21:01:00"
+  start_date: "20201126"
+  route_id: "106"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606443099
+  }
+  stop_id: "WHARPAUL"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606443142
+  }
+  stop_id: "WHARLEXI"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606443178
+  }
+  stop_id: "WHARMPL2"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606443209
+  }
+  stop_id: "RIVEWHA1"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606443235
+  }
+  stop_id: "RIVEWIL1"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606443304
+  }
+  stop_id: "DUNDRIDO"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606443345
+  }
+  stop_id: "KINGTALB"
+}
+vehicle {
+  id: "3332"
+  label: "332"
+}
+timestamp: 1606444047
+trip {
+  trip_id: "1337258"
+  start_time: "21:55:00"
+  start_date: "20201126"
+  route_id: "17"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446404
+  }
+  stop_id: "OXFOROE2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446448
+  }
+  stop_id: "OXFOHIG4"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446480
+  }
+  stop_id: "OXFOHIG2"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446505
+  }
+  stop_id: "OXFOWIST"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446531
+  }
+  stop_id: "OXFOOAKS"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446569
+  }
+  stop_id: "OXFOCLE2"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446606
+  }
+  stop_id: "OXFOLYMA"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446632
+  }
+  stop_id: "OXFOSTUA"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446666
+  }
+  stop_id: "OXFOQUE2"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446691
+  }
+  stop_id: "OXFOSTE2"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446710
+  }
+  stop_id: "OXFOGAM2"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446756
+  }
+  stop_id: "OXFOELL2"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446790
+  }
+  stop_id: "OXFOELI2"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446840
+  }
+  stop_id: "OXFOADE2"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446867
+  }
+  stop_id: "OXFOWIL2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446898
+  }
+  stop_id: "OXFOMAI2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446923
+  }
+  stop_id: "OXFOCOL2"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446951
+  }
+  stop_id: "OXFOWAT2"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446984
+  }
+  stop_id: "OXFOWEL2"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447020
+  }
+  stop_id: "OXFORIC2"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447047
+  }
+  stop_id: "OXFOGEO2"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447071
+  }
+  stop_id: "OXFOTAL2"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447136
+  }
+  stop_id: "OXFOGRAC"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447157
+  }
+  stop_id: "OXFOWHA2"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447169
+  }
+  stop_id: "OXFOFERN"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447204
+  }
+  stop_id: "OXFORAT2"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447260
+  }
+  stop_id: "OXFOPLAT"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447299
+  }
+  stop_id: "OXFOCHE2"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447363
+  }
+  stop_id: "OXFOBEA4"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447401
+  }
+  stop_id: "OXFOBEA2"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447439
+  }
+  stop_id: "OXFOPRO2"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447500
+  }
+  stop_id: "OXFOWON2"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447524
+  }
+  stop_id: "OXFOCAP2"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447565
+  }
+  stop_id: "OXFOLAR2"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447607
+  }
+  stop_id: "OXFOGUI2"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447645
+  }
+  stop_id: "OXFOFRE2"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447676
+  }
+  stop_id: "OXFOGUI3"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447700
+  }
+  stop_id: "OXFOFID2"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606447740
+  }
+  stop_id: "OXFOHYD2"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606447753
+  }
+  stop_id: "OXFOROY2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606447772
+  }
+  stop_id: "OXFOROY4"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606447796
+  }
+  stop_id: "OXFOOLH2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606447839
+  }
+  stop_id: "SANISUT2"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606447861
+  }
+  stop_id: "SANIPLY2"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606447870
+  }
+  stop_id: "SANIRIV2"
+}
+stop_time_update {
+  stop_sequence: 60
+  arrival {
+    time: 1606447920
+  }
+  stop_id: "HALLCOMM"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606448160
+  }
+  stop_id: "HALLCOMM"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606448213
+  }
+  stop_id: "COMMSTEP"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606448251
+  }
+  stop_id: "GRIFCOMM"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606448288
+  }
+  stop_id: "GRIFHEMO"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606448336
+  }
+  stop_id: "GRIFNORM"
+}
+stop_time_update {
+  stop_sequence: 66
+  arrival {
+    time: 1606448400
+  }
+  stop_id: "BYBAGRIF"
+}
+vehicle {
+  id: "3336"
+  label: "336"
+}
+timestamp: 1606446459
+trip {
+  trip_id: "1344751"
+  start_time: "21:08:00"
+  start_date: "20201126"
+  route_id: "05"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606446293
+  }
+  stop_id: "HALEHAM2"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606446343
+  }
+  stop_id: "HALEMAG2"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606446365
+  }
+  stop_id: "TWEEFAI2"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606446399
+  }
+  stop_id: "TWEEMAN2"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606446417
+  }
+  stop_id: "TWEEBER2"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606446459
+  }
+  stop_id: "MANITWE2"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606446496
+  }
+  stop_id: "MONTTWE2"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606446533
+  }
+  stop_id: "MONTELD2"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606446546
+  }
+  stop_id: "GOREVAL2"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606446587
+  }
+  stop_id: "GOREBRA2"
+}
+stop_time_update {
+  stop_sequence: 71
+  departure {
+    time: 1606446620
+  }
+  stop_id: "GOREFIR2"
+}
+stop_time_update {
+  stop_sequence: 72
+  departure {
+    time: 1606446688
+  }
+  stop_id: "CLARGORE"
+}
+stop_time_update {
+  stop_sequence: 73
+  departure {
+    time: 1606446707
+  }
+  stop_id: "CLARFIS1"
+}
+stop_time_update {
+  stop_sequence: 74
+  departure {
+    time: 1606446768
+  }
+  stop_id: "CLARCHA3"
+}
+stop_time_update {
+  stop_sequence: 75
+  departure {
+    time: 1606446840
+  }
+  stop_id: "CLARCHA1"
+}
+stop_time_update {
+  stop_sequence: 76
+  departure {
+    time: 1606446882
+  }
+  stop_id: "CLARTRA1"
+}
+stop_time_update {
+  stop_sequence: 77
+  departure {
+    time: 1606446933
+  }
+  stop_id: "CLARROY1"
+}
+stop_time_update {
+  stop_sequence: 78
+  departure {
+    time: 1606446959
+  }
+  stop_id: "CLARROY3"
+}
+stop_time_update {
+  stop_sequence: 79
+  departure {
+    time: 1606446979
+  }
+  stop_id: "CLARWAV1"
+}
+stop_time_update {
+  stop_sequence: 80
+  departure {
+    time: 1606447011
+  }
+  stop_id: "CLARCHU1"
+}
+stop_time_update {
+  stop_sequence: 81
+  arrival {
+    time: 1606447080
+  }
+  stop_id: "ARGYMAL1"
+}
+vehicle {
+  id: "3340"
+  label: "340"
+}
+timestamp: 1606446446
+trip {
+  trip_id: "1346208"
+  start_time: "21:53:00"
+  start_date: "20201126"
+  route_id: "16"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446380
+  }
+  stop_id: "ADELGRO2"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446426
+  }
+  stop_id: "ADELSJA2"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446480
+  }
+  stop_id: "ADELOXF2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446508
+  }
+  stop_id: "ADELPIC2"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446558
+  }
+  stop_id: "ADELPAMA"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446588
+  }
+  stop_id: "ADELCEN2"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446610
+  }
+  stop_id: "ADELROSE"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446635
+  }
+  stop_id: "ADELPRIN"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446656
+  }
+  stop_id: "ADELDUFR"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446679
+  }
+  stop_id: "ADELQUEE"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446720
+  }
+  stop_id: "ADELDUN2"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446840
+  }
+  stop_id: "ADELHAMI"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446863
+  }
+  stop_id: "ADELHIL2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446897
+  }
+  stop_id: "ADELNEL2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446931
+  }
+  stop_id: "ADELADA2"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446964
+  }
+  stop_id: "ADELEDNA"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447013
+  }
+  stop_id: "ADELTHO4"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447034
+  }
+  stop_id: "ADELTHO6"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447056
+  }
+  stop_id: "ADELTHO2"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447076
+  }
+  stop_id: "ADELTHO8"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447103
+  }
+  stop_id: "ADELLEA2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447140
+  }
+  stop_id: "COMMADE1"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447164
+  }
+  stop_id: "COMMLEA1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447211
+  }
+  stop_id: "COMMFRO1"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447238
+  }
+  stop_id: "COMMKIE1"
+}
+stop_time_update {
+  stop_sequence: 42
+  arrival {
+    time: 1606447280
+  }
+  stop_id: "COMMPOM1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447280
+  }
+  stop_id: "COMMPOM1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447320
+  }
+  stop_id: "PONDOLD1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447376
+  }
+  stop_id: "DEVEPOND"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447420
+  }
+  stop_id: "DEVEGLEN"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447464
+  }
+  stop_id: "DEVELYSA"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447503
+  }
+  stop_id: "DEVEBANB"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447541
+  }
+  stop_id: "DEVECOM1"
+}
+stop_time_update {
+  stop_sequence: 50
+  arrival {
+    time: 1606447620
+  }
+  stop_id: "COMMDEV4"
+}
+vehicle {
+  id: "3341"
+  label: "341"
+}
+timestamp: 1606446451
+trip {
+  trip_id: "1340497"
+  start_time: "21:45:00"
+  start_date: "20201126"
+  route_id: "34"
+  direction_id: 9
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446477
+  }
+  stop_id: "DOONMUS1"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446493
+  }
+  stop_id: "DOONMUS3"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446531
+  }
+  stop_id: "DOONSUNY"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446560
+  }
+  stop_id: "DOONRAV4"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446573
+  }
+  stop_id: "DOONRAV2"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446606
+  }
+  stop_id: "DOONWIN2"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446635
+  }
+  stop_id: "WINDTAL2"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446683
+  }
+  stop_id: "WINDRIC2"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446712
+  }
+  stop_id: "PERTWIN2"
+}
+stop_time_update {
+  stop_sequence: 37
+  arrival {
+    time: 1606446750
+  }
+  stop_id: "UNIVHOS2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446960
+  }
+  stop_id: "UNIVHOS2"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447061
+  }
+  stop_id: "DELAHAL2"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447140
+  }
+  stop_id: "NATSCI"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447270
+  }
+  stop_id: "WESTAMB1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447346
+  }
+  stop_id: "AMBLHILL"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447399
+  }
+  stop_id: "AMBLGRA2"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447467
+  }
+  stop_id: "AMBLGRN2"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447524
+  }
+  stop_id: "AMBLWHI1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447548
+  }
+  stop_id: "AMBLWHI2"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447620
+  }
+  stop_id: "PINNFAN1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447668
+  }
+  stop_id: "PINNERIV"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447710
+  }
+  stop_id: "PINNPLNE"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447771
+  }
+  stop_id: "PLANFAIR"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447827
+  }
+  stop_id: "QUARPLNE"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447918
+  }
+  stop_id: "MEADQUAR"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606447987
+  }
+  stop_id: "MEADSUNN"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606448040
+  }
+  stop_id: "SUNNVILW"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448093
+  }
+  stop_id: "SUNNRICH"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606448157
+  }
+  stop_id: "1985RICH"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606448212
+  }
+  stop_id: "RICHPLNE"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606448272
+  }
+  stop_id: "RICHNCRE"
+}
+stop_time_update {
+  stop_sequence: 59
+  arrival {
+    time: 1606448400
+  }
+  stop_id: "MASOSTO2"
+}
+vehicle {
+  id: "3342"
+  label: "342"
+}
+timestamp: 1606446459
+trip {
+  trip_id: "1345029"
+  start_time: "21:40:00"
+  start_date: "20201126"
+  route_id: "07"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446358
+  }
+  stop_id: "FLORFAI1"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606446389
+  }
+  stop_id: "FLOREGE1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606446415
+  }
+  stop_id: "FLORKEL1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606446446
+  }
+  stop_id: "FLORELE1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606446473
+  }
+  stop_id: "FLORASH1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606446544
+  }
+  stop_id: "HIGBBEA2"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606446581
+  }
+  stop_id: "HIGBWIL2"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606446660
+  }
+  stop_id: "BRYDHIG3"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606446705
+  }
+  stop_id: "BRYDHAL1"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606446736
+  }
+  stop_id: "BRYDCORN"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606446772
+  }
+  stop_id: "WAVEKIW1"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606446819
+  }
+  stop_id: "WAVEVANC"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606446865
+  }
+  stop_id: "WAVEEDM1"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606446916
+  }
+  stop_id: "WAVEMER1"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606446956
+  }
+  stop_id: "CLARWAV1"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606446983
+  }
+  stop_id: "CLARCHU1"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606447020
+  }
+  stop_id: "ARGYMAL2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606447091
+  }
+  stop_id: "DUNDEAS3"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606447138
+  }
+  stop_id: "WAVEDUN6"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606447163
+  }
+  stop_id: "WAVEDUN2"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606447192
+  }
+  stop_id: "WAVEDUN4"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606447242
+  }
+  stop_id: "WAVECAS2"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606447284
+  }
+  stop_id: "CLARWAV1"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606447313
+  }
+  stop_id: "CLARCHU1"
+}
+stop_time_update {
+  stop_sequence: 64
+  arrival {
+    time: 1606447380
+  }
+  stop_id: "ARGYMAL1"
+}
+vehicle {
+  id: "3343"
+  label: "343"
+}
+timestamp: 1606446468
+trip {
+  trip_id: "1342597"
+  start_time: "21:32:00"
+  start_date: "20201126"
+  route_id: "01"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606446480
+  }
+  stop_id: "KINGTHO2"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606446480
+  }
+  stop_id: "KINGDIP2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606446480
+  }
+  stop_id: "KINGSCE2"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606446492
+  }
+  stop_id: "KINGECHO"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606446522
+  }
+  stop_id: "KINGCHI2"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606446543
+  }
+  stop_id: "KINGEAGL"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606446616
+  }
+  stop_id: "BURLCAIR"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606446647
+  }
+  stop_id: "BURLPOMI"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606446665
+  }
+  stop_id: "SHELBUR2"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606446683
+  }
+  stop_id: "SHELODEL"
+}
+stop_time_update {
+  stop_sequence: 63
+  arrival {
+    time: 1606446720
+  }
+  stop_id: "SHELDEVE"
+}
+vehicle {
+  id: "3344"
+  label: "344"
+}
+timestamp: 1606446467
+trip {
+  trip_id: "1345065"
+  start_time: "21:33:00"
+  start_date: "20201126"
+  route_id: "07"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606446049
+  }
+  stop_id: "EMERRIDG"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606446070
+  }
+  stop_id: "SOUTBAS1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606446121
+  }
+  stop_id: "SOUTGAR1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606446146
+  }
+  stop_id: "BERKGAR2"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606446173
+  }
+  stop_id: "BERKROB2"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606446199
+  }
+  stop_id: "BERKTOP2"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606446276
+  }
+  stop_id: "COMMTOP1"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606446319
+  }
+  stop_id: "COMMFOE1"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606446358
+  }
+  stop_id: "WONDCOM2"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606446392
+  }
+  stop_id: "WONDVIL2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606446448
+  }
+  stop_id: "WONDVIS4"
+}
+stop_time_update {
+  stop_sequence: 56
+  arrival {
+    time: 1606446525
+  }
+  stop_id: "WESTMAL5"
+}
+vehicle {
+  id: "3345"
+  label: "345"
+}
+timestamp: 1606446445
+trip {
+  trip_id: "1335109"
+  start_time: "21:55:00"
+  start_date: "20201126"
+  route_id: "13"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446192
+  }
+  stop_id: "DELAHAL2"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446196
+  }
+  stop_id: "UNIVSUN1"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446264
+  }
+  stop_id: "UNIVRIC1"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446318
+  }
+  stop_id: "RICHHUR2"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446394
+  }
+  stop_id: "RICHVIC2"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446440
+  }
+  stop_id: "RICHCHE2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446495
+  }
+  stop_id: "RICHGRO2"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446531
+  }
+  stop_id: "RICHJAM2"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446600
+  }
+  stop_id: "RICHOXF2"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446646
+  }
+  stop_id: "RICHMILL"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446711
+  }
+  stop_id: "RICHCENT"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446755
+  }
+  stop_id: "RICHKEN2"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446796
+  }
+  stop_id: "RICHDUF2"
+}
+stop_time_update {
+  stop_sequence: 23
+  arrival {
+    time: 1606446840
+  }
+  stop_id: "RICHQUE2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446840
+  }
+  stop_id: "RICHQUE2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 25
+  arrival {
+    time: 1606446900
+  }
+  stop_id: "KINGRICH"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446900
+  }
+  stop_id: "KINGRICH"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446997
+  }
+  stop_id: "KINGCLAR"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447080
+  }
+  stop_id: "WELLYOR2"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447130
+  }
+  stop_id: "WELLHOR2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447169
+  }
+  stop_id: "WELLGRE2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447204
+  }
+  stop_id: "WELLSOU2"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447257
+  }
+  stop_id: "WELLGRA2"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447291
+  }
+  stop_id: "WELLCOLG"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447328
+  }
+  stop_id: "WELLWELL"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447380
+  }
+  stop_id: "WELLTHJA"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447440
+  }
+  stop_id: "WELLBAS2"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447503
+  }
+  stop_id: "WELLCOM4"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447554
+  }
+  stop_id: "WELLWAT2"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447606
+  }
+  stop_id: "WELLWIL4"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447645
+  }
+  stop_id: "WELLNAD1"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447667
+  }
+  stop_id: "WELLNADI"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447740
+  }
+  stop_id: "SOUTWEL1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447779
+  }
+  stop_id: "SOUTWIL1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447851
+  }
+  stop_id: "SOUTADE1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447882
+  }
+  stop_id: "MILLSDA1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447904
+  }
+  stop_id: "MILLDOWN"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447927
+  }
+  stop_id: "MILLSTAN"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447952
+  }
+  stop_id: "MILLSHA3"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606448001
+  }
+  stop_id: "MILLPAR1"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606448044
+  }
+  stop_id: "MILLSHA2"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606448116
+  }
+  stop_id: "MILLSDA4"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606448139
+  }
+  stop_id: "MILLDUD2"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606448174
+  }
+  stop_id: "MILLASHB"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606448195
+  }
+  stop_id: "MILLBEX2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448227
+  }
+  stop_id: "MILLBEX4"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606448267
+  }
+  stop_id: "ASHBMIL2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606448299
+  }
+  stop_id: "ASHBSUR1"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606448319
+  }
+  stop_id: "DOWASH2"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606448352
+  }
+  stop_id: "OSGOWOO2"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606448400
+  }
+  stop_id: "ADELOSG1"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606448432
+  }
+  stop_id: "OSGOKIN2"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606448458
+  }
+  stop_id: "OSGOKIN4"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606448488
+  }
+  stop_id: "OSGOFITZ"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606448519
+  }
+  stop_id: "OSGOBRE2"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606448553
+  }
+  stop_id: "WILLOSG2"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606448597
+  }
+  stop_id: "DEARWILL"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606448624
+  }
+  stop_id: "DEARDUL2"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606448668
+  }
+  stop_id: "BRADDEAR"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606448702
+  }
+  stop_id: "WELLBRA2"
+}
+stop_time_update {
+  stop_sequence: 70
+  arrival {
+    time: 1606448760
+  }
+  stop_id: "WHITOMA1"
+}
+vehicle {
+  id: "3348"
+  label: "348"
+}
+timestamp: 1606446449
+trip {
+  trip_id: "1343242"
+  start_time: "21:56:00"
+  start_date: "20201126"
+  route_id: "10"
+  direction_id: 8
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446438
+  }
+  stop_id: "HIGBOXF2"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446475
+  }
+  stop_id: "HIGBLPH2"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446540
+  }
+  stop_id: "HIGBDUN2"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446581
+  }
+  stop_id: "HIGBBEA2"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446618
+  }
+  stop_id: "HIGBWIL2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446660
+  }
+  stop_id: "HIGBBRY2"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446717
+  }
+  stop_id: "HIGBTRA2"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446768
+  }
+  stop_id: "HIGBCALV"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446788
+  }
+  stop_id: "HIGBHAM2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606447055
+  }
+  stop_id: "COMMDEV6"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606447080
+  }
+  stop_id: "COMMDEV2"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606447132
+  }
+  stop_id: "PONDDEV2"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606447166
+  }
+  stop_id: "PONDBAN2"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606447193
+  }
+  stop_id: "PONDDEV4"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447224
+  }
+  stop_id: "PONDMIR4"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447253
+  }
+  stop_id: "PONDMIR2"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447268
+  }
+  stop_id: "PONDMILL"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447319
+  }
+  stop_id: "SOUTPOM2"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447351
+  }
+  stop_id: "SOUTKOR2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447380
+  }
+  stop_id: "SOUTMIL2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447432
+  }
+  stop_id: "SOUTMIL4"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447463
+  }
+  stop_id: "SOUTMIL6"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447494
+  }
+  stop_id: "ADELSDAL"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447522
+  }
+  stop_id: "ADELOSG2"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447568
+  }
+  stop_id: "ADELOSG6"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447594
+  }
+  stop_id: "ADELOSG4"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447621
+  }
+  stop_id: "BRADADE2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447659
+  }
+  stop_id: "BRADADE4"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447689
+  }
+  stop_id: "BRADAGN2"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447713
+  }
+  stop_id: "BRADWIL4"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447740
+  }
+  stop_id: "BRADDEAR"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447766
+  }
+  stop_id: "WELLBRA2"
+}
+stop_time_update {
+  stop_sequence: 43
+  arrival {
+    time: 1606447800
+  }
+  stop_id: "WHITOMA4"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447920
+  }
+  stop_id: "WHITOMA4"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606448033
+  }
+  stop_id: "WELLBRA1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606448095
+  }
+  stop_id: "WELLMON1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606448146
+  }
+  stop_id: "WELLSDA5"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606448183
+  }
+  stop_id: "SOUTMONT"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606448220
+  }
+  stop_id: "SOUTVER2"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606448247
+  }
+  stop_id: "SOUTEAS2"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606448311
+  }
+  stop_id: "SOUTNIX2"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606448349
+  }
+  stop_id: "SOUTDUL2"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606448400
+  }
+  stop_id: "SOUTDUN2"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606448484
+  }
+  stop_id: "SOUTHOME"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448529
+  }
+  stop_id: "SOUTWHA4"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606448568
+  }
+  stop_id: "SOUTWHA2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606448626
+  }
+  stop_id: "SOUTNOD2"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606448658
+  }
+  stop_id: "SOUTNOD4"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606448726
+  }
+  stop_id: "SOUTAND2"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606448792
+  }
+  stop_id: "SOUTWON2"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606448830
+  }
+  stop_id: "WONDSDA1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606448880
+  }
+  stop_id: "WONDPVA1"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606448902
+  }
+  stop_id: "WONDMMA3"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606448935
+  }
+  stop_id: "WONDMMA1"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606449060
+  }
+  stop_id: "WESTMAL6"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606449109
+  }
+  stop_id: "WONDVIS3"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606449137
+  }
+  stop_id: "WONDVIL1"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606449179
+  }
+  stop_id: "WONDCOM1"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606449216
+  }
+  stop_id: "WONDCOM3"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606449273
+  }
+  stop_id: "WONDTEE1"
+}
+stop_time_update {
+  stop_sequence: 71
+  departure {
+    time: 1606449360
+  }
+  stop_id: "WONDSPR1"
+}
+stop_time_update {
+  stop_sequence: 72
+  departure {
+    time: 1606449510
+  }
+  stop_id: "WONDRIV1"
+}
+stop_time_update {
+  stop_sequence: 73
+  departure {
+    time: 1606449535
+  }
+  stop_id: "WONDKIW1"
+}
+stop_time_update {
+  stop_sequence: 74
+  departure {
+    time: 1606449579
+  }
+  stop_id: "WONDOXF3"
+}
+stop_time_update {
+  stop_sequence: 75
+  departure {
+    time: 1606449600
+  }
+  stop_id: "WONDOXF1"
+}
+stop_time_update {
+  stop_sequence: 76
+  departure {
+    time: 1606449636
+  }
+  stop_id: "WONDFAR1"
+}
+stop_time_update {
+  stop_sequence: 77
+  departure {
+    time: 1606449668
+  }
+  stop_id: "WONDFAR3"
+}
+stop_time_update {
+  stop_sequence: 78
+  departure {
+    time: 1606449716
+  }
+  stop_id: "WONDBEA1"
+}
+stop_time_update {
+  stop_sequence: 79
+  arrival {
+    time: 1606449840
+  }
+  stop_id: "SARNCAS1"
+}
+stop_time_update {
+  stop_sequence: 80
+  departure {
+    time: 1606449840
+  }
+  stop_id: "SARNCAS1"
+}
+stop_time_update {
+  stop_sequence: 81
+  departure {
+    time: 1606449887
+  }
+  stop_id: "SARNRIPP"
+}
+stop_time_update {
+  stop_sequence: 82
+  departure {
+    time: 1606449941
+  }
+  stop_id: "SARNCAS3"
+}
+stop_time_update {
+  stop_sequence: 83
+  departure {
+    time: 1606449988
+  }
+  stop_id: "SARNCOOM"
+}
+stop_time_update {
+  stop_sequence: 84
+  departure {
+    time: 1606450020
+  }
+  stop_id: "SARNWES1"
+}
+stop_time_update {
+  stop_sequence: 85
+  departure {
+    time: 1606450077
+  }
+  stop_id: "WESTPHA3"
+}
+stop_time_update {
+  stop_sequence: 86
+  departure {
+    time: 1606450195
+  }
+  stop_id: "ALUMHAL1"
+}
+stop_time_update {
+  stop_sequence: 87
+  departure {
+    time: 1606450340
+  }
+  stop_id: "MIDDPERT"
+}
+stop_time_update {
+  stop_sequence: 88
+  arrival {
+    time: 1606450440
+  }
+  stop_id: "NATSCI"
+}
+vehicle {
+  id: "3349"
+  label: "349"
+}
+timestamp: 1606446469
+trip {
+  trip_id: "1331741"
+  start_time: "20:58:00"
+  start_date: "20201126"
+  route_id: "06"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606442886
+  }
+  stop_id: "RICHMILL"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606442886
+  }
+  stop_id: "RICHCENT"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606442923
+  }
+  stop_id: "RICHKEN2"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606442974
+  }
+  stop_id: "RICHDUF2"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606443180
+  }
+  stop_id: "RICHQUE2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606443240
+  }
+  stop_id: "RICHKIN4"
+}
+vehicle {
+  id: "3350"
+  label: "350"
+}
+timestamp: 1606443638
+trip {
+  trip_id: "1345240"
+  start_time: "21:57:00"
+  start_date: "20201126"
+  route_id: "09"
+}
+stop_time_update {
+  stop_sequence: 6
+  departure {
+    time: 1606446212
+  }
+  stop_id: "QUEETALB"
+}
+stop_time_update {
+  stop_sequence: 7
+  departure {
+    time: 1606446212
+  }
+  stop_id: "QUENRIDO"
+}
+stop_time_update {
+  stop_sequence: 8
+  departure {
+    time: 1606446269
+  }
+  stop_id: "RIVEWIL2"
+}
+stop_time_update {
+  stop_sequence: 9
+  departure {
+    time: 1606446314
+  }
+  stop_id: "RIVEWHA4"
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446353
+  }
+  stop_id: "RIVEMTPL"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446389
+  }
+  stop_id: "WOODRIVE"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446441
+  }
+  stop_id: "WOODEDI1"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446464
+  }
+  stop_id: "WOODCAM1"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446510
+  }
+  stop_id: "PLATOXF1"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446535
+  }
+  stop_id: "PLATCHE1"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446609
+  }
+  stop_id: "PLATTRO1"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446703
+  }
+  stop_id: "WESTPHA1"
+}
+stop_time_update {
+  stop_sequence: 18
+  arrival {
+    time: 1606446750
+  }
+  stop_id: "SARNWES2"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446750
+  }
+  stop_id: "SARNWES2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446821
+  }
+  stop_id: "SARNBRES"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446891
+  }
+  stop_id: "SARNSLEI"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446972
+  }
+  stop_id: "SARNLEYT"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606447050
+  }
+  stop_id: "WONDSAR1"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606447136
+  }
+  stop_id: "LAWSBLF2"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447163
+  }
+  stop_id: "LAWSBAN2"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447195
+  }
+  stop_id: "LAWSLIMB"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447234
+  }
+  stop_id: "LIMBARD3"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447270
+  }
+  stop_id: "LIMBARD1"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447305
+  }
+  stop_id: "LIMBGAI1"
+}
+stop_time_update {
+  stop_sequence: 30
+  arrival {
+    time: 1606447350
+  }
+  stop_id: "GAINWON1"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447350
+  }
+  stop_id: "GAINWON1"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447380
+  }
+  stop_id: "WONDGAIN"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447430
+  }
+  stop_id: "BLACWOND"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447479
+  }
+  stop_id: "BLACHOM2"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447526
+  }
+  stop_id: "BLACEDG2"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447562
+  }
+  stop_id: "BLACEDG4"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447612
+  }
+  stop_id: "BLACWWA2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447639
+  }
+  stop_id: "ALDEBLA3"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447695
+  }
+  stop_id: "FANSALD1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447746
+  }
+  stop_id: "FANSFOX1"
+}
+stop_time_update {
+  stop_sequence: 41
+  arrival {
+    time: 1606447830
+  }
+  stop_id: "FANSWOND"
+}
+vehicle {
+  id: "3352"
+  label: "352"
+}
+timestamp: 1606446457
+trip {
+  trip_id: "1331697"
+  start_time: "21:58:00"
+  start_date: "20201126"
+  route_id: "06"
+}
+stop_time_update {
+  stop_sequence: 6
+  departure {
+    time: 1606446179
+  }
+  stop_id: "BASEFAI2"
+}
+stop_time_update {
+  stop_sequence: 7
+  departure {
+    time: 1606446235
+  }
+  stop_id: "BASEWEL6"
+}
+stop_time_update {
+  stop_sequence: 8
+  departure {
+    time: 1606446296
+  }
+  stop_id: "HIGHBASE"
+}
+stop_time_update {
+  stop_sequence: 9
+  departure {
+    time: 1606446337
+  }
+  stop_id: "HIGHCHE1"
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446361
+  }
+  stop_id: "HIGHEME1"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446416
+  }
+  stop_id: "HIGHWIN3"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446458
+  }
+  stop_id: "HIGHMCL1"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446495
+  }
+  stop_id: "GRANHIG2"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446524
+  }
+  stop_id: "GRANHIG4"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446569
+  }
+  stop_id: "CARFGRAN"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446617
+  }
+  stop_id: "CARFCAR1"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446683
+  }
+  stop_id: "RICHSIM1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446713
+  }
+  stop_id: "RICHHOT3"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446795
+  }
+  stop_id: "RICHKIN1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 20
+  arrival {
+    time: 1606446915
+  }
+  stop_id: "RICHQUEE"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446915
+  }
+  stop_id: "RICHQUEE"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446996
+  }
+  stop_id: "RICHKEN1"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606447074
+  }
+  stop_id: "RICHHYM1"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606447119
+  }
+  stop_id: "RICHPALL"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447215
+  }
+  stop_id: "RICHOXF1"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447237
+  }
+  stop_id: "RICHJAM1"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447273
+  }
+  stop_id: "RICHGRO1"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447294
+  }
+  stop_id: "RICHCHE1"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447324
+  }
+  stop_id: "RICHVIC1"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447354
+  }
+  stop_id: "RICHREG1"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447378
+  }
+  stop_id: "RICHHUR1"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447404
+  }
+  stop_id: "RICHUNI1"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447444
+  }
+  stop_id: "RICHBERN"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447478
+  }
+  stop_id: "RICHRAY1"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447568
+  }
+  stop_id: "WINDRIC2"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447597
+  }
+  stop_id: "PERTWIN2"
+}
+stop_time_update {
+  stop_sequence: 37
+  arrival {
+    time: 1606447635
+  }
+  stop_id: "UNIVHOS2"
+}
+vehicle {
+  id: "3360"
+  label: "360"
+}
+timestamp: 1606446472
+trip {
+  trip_id: "1345279"
+  start_time: "21:58:00"
+  start_date: "20201126"
+  route_id: "09"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446482
+  }
+  stop_id: "SARNRIPP"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446536
+  }
+  stop_id: "SARNCAS3"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446583
+  }
+  stop_id: "SARNCOOM"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446720
+  }
+  stop_id: "SARNWES1"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446776
+  }
+  stop_id: "WESTSAR2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446818
+  }
+  stop_id: "WESTSAR4"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446913
+  }
+  stop_id: "PLATTRO2"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446980
+  }
+  stop_id: "PLATCHE2"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606447020
+  }
+  stop_id: "PLATOXF2"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606447054
+  }
+  stop_id: "WOODCAM2"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447081
+  }
+  stop_id: "WOODEDI2"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447108
+  }
+  stop_id: "WOODTOZ2"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447142
+  }
+  stop_id: "RIVEWOO1"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447167
+  }
+  stop_id: "RIVECAVE"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447217
+  }
+  stop_id: "RIVEWHA1"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447240
+  }
+  stop_id: "RIVEWIL1"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447303
+  }
+  stop_id: "DUNDRIDO"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447338
+  }
+  stop_id: "KINGTALB"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447380
+  }
+  stop_id: "KINGRIC1"
+}
+stop_time_update {
+  stop_sequence: 34
+  arrival {
+    time: 1606447440
+  }
+  stop_id: "KINGCLAR"
+}
+vehicle {
+  id: "3361"
+  label: "361"
+}
+timestamp: 1606446465
+trip {
+  trip_id: "1334507"
+  start_time: "21:51:00"
+  start_date: "20201126"
+  route_id: "106"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606445993
+  }
+  stop_id: "WHARPAUL"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606445993
+  }
+  stop_id: "WHARLEXI"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446000
+  }
+  stop_id: "WHARMPL2"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446038
+  }
+  stop_id: "RIVEWHA1"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446070
+  }
+  stop_id: "RIVEWIL1"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446155
+  }
+  stop_id: "DUNDRIDO"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446203
+  }
+  stop_id: "KINGTALB"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 17
+  arrival {
+    time: 1606446315
+  }
+  stop_id: "RICHQUEE"
+}
+vehicle {
+  id: "3362"
+  label: "362"
+}
+timestamp: 1606446445
+trip {
+  trip_id: "1337150"
+  start_time: "21:45:00"
+  start_date: "20201126"
+  route_id: "17"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446506
+  }
+  stop_id: "OXFORAT1"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446567
+  }
+  stop_id: "OXFOWHA1"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446590
+  }
+  stop_id: "OXFOANDR"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446664
+  }
+  stop_id: "OXFOTAL1"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446704
+  }
+  stop_id: "OXFOGEO1"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446750
+  }
+  stop_id: "OXFORIC1"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446769
+  }
+  stop_id: "OXFOWEL1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446802
+  }
+  stop_id: "OXFOWAT1"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446834
+  }
+  stop_id: "OXFOCOL1"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446874
+  }
+  stop_id: "OXFOMAI1"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606446901
+  }
+  stop_id: "OXFOWIL1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446930
+  }
+  stop_id: "OXFOADE1"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606446972
+  }
+  stop_id: "OXFOELI1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447010
+  }
+  stop_id: "OXFOELL1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447057
+  }
+  stop_id: "OXFOGAM1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447093
+  }
+  stop_id: "OXFOSTE1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447114
+  }
+  stop_id: "OXFOQUE1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447148
+  }
+  stop_id: "OXFOSTRA"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447170
+  }
+  stop_id: "OXFOFLEE"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447188
+  }
+  stop_id: "OXFOSPIT"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447226
+  }
+  stop_id: "OXFOCLE1"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447266
+  }
+  stop_id: "OXFOEMPI"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447289
+  }
+  stop_id: "OXFOMORN"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447312
+  }
+  stop_id: "OXFOHIG1"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606447350
+  }
+  stop_id: "OXFOHIG3"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606447530
+  }
+  stop_id: "FANCOLL1"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606447599
+  }
+  stop_id: "OXFOSEC1"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606447663
+  }
+  stop_id: "OXFOTHI1"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606447707
+  }
+  stop_id: "THIROXF2"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606447739
+  }
+  stop_id: "THIROFO2"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606447770
+  }
+  stop_id: "THIRCUL2"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606447786
+  }
+  stop_id: "CULVTHR1"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606447820
+  }
+  stop_id: "CULVCUL1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606447842
+  }
+  stop_id: "CULVCUL3"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606447879
+  }
+  stop_id: "CULVCUL5"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606447907
+  }
+  stop_id: "CULVCLA1"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606447952
+  }
+  stop_id: "CLARCULV"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606447972
+  }
+  stop_id: "CLARHERB"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606447983
+  }
+  stop_id: "CLARPKH2"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606448016
+  }
+  stop_id: "CLARAVA2"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606448044
+  }
+  stop_id: "CLARDUN2"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606448077
+  }
+  stop_id: "CLARWHI2"
+}
+stop_time_update {
+  stop_sequence: 71
+  arrival {
+    time: 1606448130
+  }
+  stop_id: "ARGYMAL2"
+}
+vehicle {
+  id: "3367"
+  label: "367"
+}
+timestamp: 1606446449
+trip {
+  trip_id: "1343240"
+  start_time: "20:40:00"
+  start_date: "20201126"
+  route_id: "10"
+  direction_id: 8
+}
+stop_time_update {
+  stop_sequence: 85
+  departure {
+    time: 1606446138
+  }
+  stop_id: "WESTPHA3"
+}
+stop_time_update {
+  stop_sequence: 86
+  departure {
+    time: 1606446283
+  }
+  stop_id: "ALUMHAL1"
+}
+stop_time_update {
+  stop_sequence: 87
+  departure {
+    time: 1606446660
+  }
+  stop_id: "DELAHALL"
+}
+stop_time_update {
+  stop_sequence: 88
+  departure {
+    time: 1606446768
+  }
+  stop_id: "UNIVHOS1"
+}
+stop_time_update {
+  stop_sequence: 89
+  departure {
+    time: 1606446793
+  }
+  stop_id: "PERTWIN1"
+}
+stop_time_update {
+  stop_sequence: 90
+  departure {
+    time: 1606446857
+  }
+  stop_id: "RICHWIN1"
+}
+stop_time_update {
+  stop_sequence: 91
+  departure {
+    time: 1606446893
+  }
+  stop_id: "RICHWEC1"
+}
+stop_time_update {
+  stop_sequence: 92
+  departure {
+    time: 1606446927
+  }
+  stop_id: "RICHCANT"
+}
+stop_time_update {
+  stop_sequence: 93
+  departure {
+    time: 1606446985
+  }
+  stop_id: "RICHSUNN"
+}
+stop_time_update {
+  stop_sequence: 94
+  arrival {
+    time: 1606447080
+  }
+  stop_id: "MASOSTO4"
+}
+vehicle {
+  id: "3501"
+  label: "501"
+}
+timestamp: 1606446474
+trip {
+  trip_id: "1342647"
+  start_time: "21:50:00"
+  start_date: "20201126"
+  route_id: "01"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446480
+  }
+  stop_id: "WELLDUN1"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446520
+  }
+  stop_id: "WELLDUFF"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446546
+  }
+  stop_id: "DUFFPICT"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446590
+  }
+  stop_id: "DUFFCOLB"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446625
+  }
+  stop_id: "COLBPRIN"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446673
+  }
+  stop_id: "COLBCEN1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446715
+  }
+  stop_id: "COLBPAM1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446780
+  }
+  stop_id: "COLBOXFO"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606446807
+  }
+  stop_id: "COLBSJM1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446848
+  }
+  stop_id: "COLBGRO2"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606446890
+  }
+  stop_id: "CHEACOL1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606446938
+  }
+  stop_id: "CHEAMAI1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606446978
+  }
+  stop_id: "CHEAWIL1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447020
+  }
+  stop_id: "ADELCHE1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447041
+  }
+  stop_id: "ADELVIC1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447073
+  }
+  stop_id: "ADELREG1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447096
+  }
+  stop_id: "ADELHUR1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447136
+  }
+  stop_id: "ADELHUR5"
+}
+stop_time_update {
+  stop_sequence: 49
+  arrival {
+    time: 1606447200
+  }
+  stop_id: "KIPPADEL"
+}
+vehicle {
+  id: "3505"
+  label: "505"
+}
+timestamp: 1606446445
+trip {
+  trip_id: "1340521"
+  start_time: "21:45:00"
+  start_date: "20201126"
+  route_id: "34"
+  direction_id: 10
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446420
+  }
+  stop_id: "ALUMHAL1"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446540
+  }
+  stop_id: "DELAHALL"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446660
+  }
+  stop_id: "UNIVHOS1"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446687
+  }
+  stop_id: "PERTWIN1"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446736
+  }
+  stop_id: "WINDRIC1"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446792
+  }
+  stop_id: "WINDTAL1"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446840
+  }
+  stop_id: "DOONWIN1"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446901
+  }
+  stop_id: "DOONCAIT"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446919
+  }
+  stop_id: "DOONANGU"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446954
+  }
+  stop_id: "DOONMUS2"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446998
+  }
+  stop_id: "WINDDOO1"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447033
+  }
+  stop_id: "WINDDOO3"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447057
+  }
+  stop_id: "WINDADE1"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447102
+  }
+  stop_id: "ADELWIN1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447189
+  }
+  stop_id: "GLENADE1"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447276
+  }
+  stop_id: "GLENGLE4"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447343
+  }
+  stop_id: "GLENRID1"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447382
+  }
+  stop_id: "GLENMCL1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447436
+  }
+  stop_id: "FANSGLE3"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447477
+  }
+  stop_id: "STACFANS"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447560
+  }
+  stop_id: "GRENSTA1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447602
+  }
+  stop_id: "GRENDEVO"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447634
+  }
+  stop_id: "GRENTROS"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447685
+  }
+  stop_id: "GRENMIDA"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447740
+  }
+  stop_id: "GRENGREN"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447792
+  }
+  stop_id: "GRENADEL"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447825
+  }
+  stop_id: "PHILSILV"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447882
+  }
+  stop_id: "PHILPHIL"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447921
+  }
+  stop_id: "PHILBILL"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447980
+  }
+  stop_id: "FANSPHIL"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606448012
+  }
+  stop_id: "FANSHAS2"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606448040
+  }
+  stop_id: "FANSJEN2"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606448061
+  }
+  stop_id: "FANSJEN4"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448093
+  }
+  stop_id: "FANSNCR2"
+}
+stop_time_update {
+  stop_sequence: 56
+  arrival {
+    time: 1606448160
+  }
+  stop_id: "MASOSTO3"
+}
+vehicle {
+  id: "3507"
+  label: "507"
+}
+timestamp: 1606446448
+trip {
+  trip_id: "1346269"
+  start_time: "21:46:00"
+  start_date: "20201126"
+  route_id: "16"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446147
+  }
+  stop_id: "ADELVIC1"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446181
+  }
+  stop_id: "ADELREG1"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446207
+  }
+  stop_id: "ADELHUR1"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446253
+  }
+  stop_id: "ADELHUR5"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446285
+  }
+  stop_id: "ADELKIP1"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446363
+  }
+  stop_id: "ADELWIN1"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446442
+  }
+  stop_id: "ADELGLEN"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446462
+  }
+  stop_id: "ADELTENN"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446540
+  }
+  stop_id: "FANSADE4"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446569
+  }
+  stop_id: "FANSSTO2"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446647
+  }
+  stop_id: "FANSHAS2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446674
+  }
+  stop_id: "FANSJEN2"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606446695
+  }
+  stop_id: "FANSJEN4"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446726
+  }
+  stop_id: "FANSNCR2"
+}
+stop_time_update {
+  stop_sequence: 41
+  arrival {
+    time: 1606446780
+  }
+  stop_id: "MASOSTO6"
+}
+vehicle {
+  id: "3508"
+  label: "508"
+}
+timestamp: 1606446456
+trip {
+  trip_id: "1345800"
+  start_time: "21:21:00"
+  start_date: "20201126"
+  route_id: "15"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606446163
+  }
+  stop_id: "CHEABRA1"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606446204
+  }
+  stop_id: "CHEAGAM1"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606446244
+  }
+  stop_id: "CHEABARK"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606446278
+  }
+  stop_id: "CHEABOU1"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606446337
+  }
+  stop_id: "CHEAMCNA"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606446387
+  }
+  stop_id: "MCNAVIC3"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606446406
+  }
+  stop_id: "MCNAVIC1"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606446450
+  }
+  stop_id: "MCNAHUR1"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606446508
+  }
+  stop_id: "HUROVES1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606446570
+  }
+  stop_id: "HUROHIG1"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606446641
+  }
+  stop_id: "HUROWEB1"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606446688
+  }
+  stop_id: "HUROSAN1"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606446744
+  }
+  stop_id: "BECKTOUK"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606446770
+  }
+  stop_id: "BECKLANC"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606446788
+  }
+  stop_id: "BECKLANG"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606446806
+  }
+  stop_id: "BECKTUDO"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606446829
+  }
+  stop_id: "BECKSORR"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606446872
+  }
+  stop_id: "SORRPERT"
+}
+stop_time_update {
+  stop_sequence: 71
+  departure {
+    time: 1606446899
+  }
+  stop_id: "SORRHURO"
+}
+stop_time_update {
+  stop_sequence: 72
+  arrival {
+    time: 1606446930
+  }
+  stop_id: "OAKVHURO"
+}
+vehicle {
+  id: "3510"
+  label: "510"
+}
+timestamp: 1606446450
+trip {
+  trip_id: "1338085"
+  start_time: "21:56:00"
+  start_date: "20201126"
+  route_id: "20"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 9
+  departure {
+    time: 1606446306
+  }
+  stop_id: "CHERCHC1"
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446342
+  }
+  stop_id: "CHERCHC3"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446376
+  }
+  stop_id: "CHERPLA1"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446417
+  }
+  stop_id: "PLATOXF2"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446458
+  }
+  stop_id: "WOODCAM2"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446491
+  }
+  stop_id: "WOODEDI2"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446524
+  }
+  stop_id: "WOODTOZ2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446570
+  }
+  stop_id: "RIVEWOO1"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446589
+  }
+  stop_id: "RIVECAVE"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446627
+  }
+  stop_id: "RIVEWHA1"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446645
+  }
+  stop_id: "RIVEWIL1"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446720
+  }
+  stop_id: "KINGTALB"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 21
+  arrival {
+    time: 1606446750
+  }
+  stop_id: "KINGRIC1"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446750
+  }
+  stop_id: "KINGRIC1"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446857
+  }
+  stop_id: "KINGCLAR"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446990
+  }
+  stop_id: "DUNDWEL5"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447041
+  }
+  stop_id: "DUNDWAT1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447077
+  }
+  stop_id: "DUNDCOL1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447134
+  }
+  stop_id: "DUNDMAI1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447186
+  }
+  stop_id: "DUNDWIL1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447230
+  }
+  stop_id: "DUNDADE1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447260
+  }
+  stop_id: "DUNDLYLE"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447296
+  }
+  stop_id: "DUNDHEWI"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447327
+  }
+  stop_id: "DUNDREC1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447354
+  }
+  stop_id: "DUNDONT1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447402
+  }
+  stop_id: "QUEBDUND"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447419
+  }
+  stop_id: "QUEBQUEE"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447453
+  }
+  stop_id: "QUEBLOR1"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447474
+  }
+  stop_id: "QUEBELI1"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447526
+  }
+  stop_id: "SALIQUEB"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447551
+  }
+  stop_id: "GLASMORN"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447577
+  }
+  stop_id: "MORNSTRA"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447650
+  }
+  stop_id: "MORNSAL1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447702
+  }
+  stop_id: "MORNCON1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447727
+  }
+  stop_id: "MORNCON3"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447777
+  }
+  stop_id: "MORNOXF3"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447800
+  }
+  stop_id: "OXFOMORN"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447830
+  }
+  stop_id: "OXFOHIG1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447855
+  }
+  stop_id: "OXFOHIG3"
+}
+stop_time_update {
+  stop_sequence: 48
+  arrival {
+    time: 1606447950
+  }
+  stop_id: "FANCOLL3"
+}
+vehicle {
+  id: "3511"
+  label: "511"
+}
+timestamp: 1606446453
+trip {
+  trip_id: "1337148"
+  start_time: "22:00:00"
+  start_date: "20201126"
+  route_id: "17"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 9
+  departure {
+    time: 1606446345
+  }
+  stop_id: "SANIRIV1"
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446353
+  }
+  stop_id: "SANIPLY1"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446382
+  }
+  stop_id: "SANISUT1"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446420
+  }
+  stop_id: "OXFOSAN1"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446438
+  }
+  stop_id: "OXFOOLH1"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446471
+  }
+  stop_id: "OXFOROY3"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446496
+  }
+  stop_id: "OXFOROY1"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446525
+  }
+  stop_id: "OXFOHYD1"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446550
+  }
+  stop_id: "OXFOFID1"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446591
+  }
+  stop_id: "OXFOGUI1"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446623
+  }
+  stop_id: "OXFOFRE1"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446664
+  }
+  stop_id: "OXFOJUNI"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446724
+  }
+  stop_id: "OXFOLAR1"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446770
+  }
+  stop_id: "OXFOCAP1"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446825
+  }
+  stop_id: "OXFOWON1"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446872
+  }
+  stop_id: "OXFOPRO1"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446947
+  }
+  stop_id: "OXFOBEA1"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446990
+  }
+  stop_id: "OXFOCHE1"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447007
+  }
+  stop_id: "OXFOCHE3"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447065
+  }
+  stop_id: "OXFOBRI1"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447121
+  }
+  stop_id: "OXFORAT1"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447182
+  }
+  stop_id: "OXFOWHA1"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447205
+  }
+  stop_id: "OXFOANDR"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447279
+  }
+  stop_id: "OXFOTAL1"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447319
+  }
+  stop_id: "OXFOGEO1"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447365
+  }
+  stop_id: "OXFORIC1"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447384
+  }
+  stop_id: "OXFOWEL1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447417
+  }
+  stop_id: "OXFOWAT1"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447449
+  }
+  stop_id: "OXFOCOL1"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447489
+  }
+  stop_id: "OXFOMAI1"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447516
+  }
+  stop_id: "OXFOWIL1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447545
+  }
+  stop_id: "OXFOADE1"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447587
+  }
+  stop_id: "OXFOELI1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447625
+  }
+  stop_id: "OXFOELL1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447672
+  }
+  stop_id: "OXFOGAM1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447708
+  }
+  stop_id: "OXFOSTE1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447729
+  }
+  stop_id: "OXFOQUE1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447763
+  }
+  stop_id: "OXFOSTRA"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447785
+  }
+  stop_id: "OXFOFLEE"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447803
+  }
+  stop_id: "OXFOSPIT"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447841
+  }
+  stop_id: "OXFOCLE1"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447881
+  }
+  stop_id: "OXFOEMPI"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447904
+  }
+  stop_id: "OXFOMORN"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447927
+  }
+  stop_id: "OXFOHIG1"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606447965
+  }
+  stop_id: "OXFOHIG3"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606448145
+  }
+  stop_id: "FANCOLL1"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448214
+  }
+  stop_id: "OXFOSEC1"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606448278
+  }
+  stop_id: "OXFOTHI1"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606448322
+  }
+  stop_id: "THIROXF2"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606448354
+  }
+  stop_id: "THIROFO2"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606448385
+  }
+  stop_id: "THIRCUL2"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606448401
+  }
+  stop_id: "CULVTHR1"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606448435
+  }
+  stop_id: "CULVCUL1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606448457
+  }
+  stop_id: "CULVCUL3"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606448494
+  }
+  stop_id: "CULVCUL5"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606448522
+  }
+  stop_id: "CULVCLA1"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606448567
+  }
+  stop_id: "CLARCULV"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606448587
+  }
+  stop_id: "CLARHERB"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606448598
+  }
+  stop_id: "CLARPKH2"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606448631
+  }
+  stop_id: "CLARAVA2"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606448659
+  }
+  stop_id: "CLARDUN2"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606448692
+  }
+  stop_id: "CLARWHI2"
+}
+stop_time_update {
+  stop_sequence: 71
+  arrival {
+    time: 1606448745
+  }
+  stop_id: "ARGYMAL2"
+}
+vehicle {
+  id: "3513"
+  label: "513"
+}
+timestamp: 1606446464
+trip {
+  trip_id: "1347365"
+  start_time: "21:33:00"
+  start_date: "20201126"
+  route_id: "02"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446182
+  }
+  stop_id: "DUNDHAL3"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446220
+  }
+  stop_id: "HALEDOU2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446236
+  }
+  stop_id: "HALEBEAT"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606446255
+  }
+  stop_id: "HALEMONT"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446281
+  }
+  stop_id: "HALEBRY2"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606446332
+  }
+  stop_id: "HALETRA2"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606446382
+  }
+  stop_id: "TRAFSTE1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606446404
+  }
+  stop_id: "TRAFTHO1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606446453
+  }
+  stop_id: "TRAFVAN1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606446474
+  }
+  stop_id: "TRAFBALF"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606446503
+  }
+  stop_id: "TRAFFAL2"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606446555
+  }
+  stop_id: "TRAFCLA1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606446580
+  }
+  stop_id: "CLARTRA1"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606446635
+  }
+  stop_id: "CLARROY1"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606446663
+  }
+  stop_id: "CLARROY3"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606446685
+  }
+  stop_id: "CLARWAV1"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606446719
+  }
+  stop_id: "CLARCHU1"
+}
+stop_time_update {
+  stop_sequence: 53
+  arrival {
+    time: 1606446795
+  }
+  stop_id: "ARGYMAL1"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606447200
+  }
+  stop_id: "ARGYMAL1"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606447237
+  }
+  stop_id: "CLARCHU2"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606447277
+  }
+  stop_id: "CLARWAV2"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606447298
+  }
+  stop_id: "CLARROY2"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606447346
+  }
+  stop_id: "CLARSUD2"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606447412
+  }
+  stop_id: "MARCTRAF"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606447457
+  }
+  stop_id: "MARCNOEL"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606447500
+  }
+  stop_id: "NOELBOW"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606447536
+  }
+  stop_id: "BOWBANC"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606447558
+  }
+  stop_id: "HUDSBAFF"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606447578
+  }
+  stop_id: "HUDSFROB"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606447625
+  }
+  stop_id: "HUDSJOLI"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606447651
+  }
+  stop_id: "HUDSTRAF"
+}
+stop_time_update {
+  stop_sequence: 67
+  arrival {
+    time: 1606447680
+  }
+  stop_id: "TRAFHUD2"
+}
+vehicle {
+  id: "3514"
+  label: "514"
+}
+timestamp: 1606446458
+trip {
+  trip_id: "1388370"
+  start_time: "21:44:00"
+  start_date: "20201126"
+  route_id: "102"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446181
+  }
+  stop_id: "RICHMILL"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446267
+  }
+  stop_id: "RICHCENT"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446326
+  }
+  stop_id: "RICHKEN2"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446380
+  }
+  stop_id: "RICHDUF2"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446436
+  }
+  stop_id: "RICHQUE2"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446507
+  }
+  stop_id: "KINGRICH"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446618
+  }
+  stop_id: "WELLDUN3"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446710
+  }
+  stop_id: "QUEECLAR"
+}
+stop_time_update {
+  stop_sequence: 22
+  arrival {
+    time: 1606446780
+  }
+  stop_id: "QUEERIC1"
+}
+vehicle {
+  id: "3520"
+  label: "520"
+}
+timestamp: 1606446449
+trip {
+  trip_id: "1330760"
+  start_time: "21:32:00"
+  start_date: "20201126"
+  route_id: "04"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606446144
+  }
+  stop_id: "SANDWIL2"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606446176
+  }
+  stop_id: "SANDVER1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606446193
+  }
+  stop_id: "VERUEDEN"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606446231
+  }
+  stop_id: "EDENEAS2"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606446263
+  }
+  stop_id: "EDENNIX"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606446296
+  }
+  stop_id: "NIXOCRE2"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606446320
+  }
+  stop_id: "NIXOSDAL"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606446359
+  }
+  stop_id: "JALNERN3"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606446423
+  }
+  stop_id: "JALNBEE2"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606446458
+  }
+  stop_id: "JALNTUMB"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606446506
+  }
+  stop_id: "JALNBEM2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606446547
+  }
+  stop_id: "JALNBRA4"
+}
+stop_time_update {
+  stop_sequence: 56
+  arrival {
+    time: 1606446585
+  }
+  stop_id: "WHOKMASB"
+}
+vehicle {
+  id: "3524"
+  label: "524"
+}
+timestamp: 1606446466
+trip {
+  trip_id: "1345066"
+  start_time: "22:03:00"
+  start_date: "20201126"
+  route_id: "07"
+}
+stop_time_update {
+  stop_sequence: 2
+  departure {
+    time: 1606446241
+  }
+  stop_id: "CLARCHU2"
+}
+stop_time_update {
+  stop_sequence: 3
+  departure {
+    time: 1606446274
+  }
+  stop_id: "WAVECLA2"
+}
+stop_time_update {
+  stop_sequence: 4
+  departure {
+    time: 1606446308
+  }
+  stop_id: "WAVEMER2"
+}
+stop_time_update {
+  stop_sequence: 5
+  departure {
+    time: 1606446350
+  }
+  stop_id: "WAVEEDM2"
+}
+stop_time_update {
+  stop_sequence: 6
+  departure {
+    time: 1606446378
+  }
+  stop_id: "WAVEWIN2"
+}
+stop_time_update {
+  stop_sequence: 7
+  departure {
+    time: 1606446413
+  }
+  stop_id: "WAVESASK"
+}
+stop_time_update {
+  stop_sequence: 8
+  departure {
+    time: 1606446445
+  }
+  stop_id: "WAVEKIW2"
+}
+stop_time_update {
+  stop_sequence: 9
+  departure {
+    time: 1606446477
+  }
+  stop_id: "BRYDGRAY"
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446511
+  }
+  stop_id: "BRYDHAL2"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446570
+  }
+  stop_id: "BRYDHIG2"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446598
+  }
+  stop_id: "HIGBWIL1"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446631
+  }
+  stop_id: "HIGBBEA1"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446655
+  }
+  stop_id: "FLORHIG2"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446699
+  }
+  stop_id: "FLORASH2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446729
+  }
+  stop_id: "FLORELE2"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446760
+  }
+  stop_id: "FLORKEL2"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446783
+  }
+  stop_id: "FLOREGE2"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446816
+  }
+  stop_id: "FLORFAI2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446870
+  }
+  stop_id: "YORKREC2"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446924
+  }
+  stop_id: "YORKLYL2"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446950
+  }
+  stop_id: "YORKADE2"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446984
+  }
+  stop_id: "YORKWIL2"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606447020
+  }
+  stop_id: "YORKMAI2"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447065
+  }
+  stop_id: "YORKCOL2"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447089
+  }
+  stop_id: "YORKWAT2"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447138
+  }
+  stop_id: "WELLYOR1"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447170
+  }
+  stop_id: "WELLDUN3"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447243
+  }
+  stop_id: "QUEECLAR"
+}
+stop_time_update {
+  stop_sequence: 30
+  arrival {
+    time: 1606447290
+  }
+  stop_id: "QUEERIC1"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447290
+  }
+  stop_id: "QUEERIC1"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447315
+  }
+  stop_id: "QUEETALB"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447363
+  }
+  stop_id: "RIDOKING"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447387
+  }
+  stop_id: "RIDOYORK"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447419
+  }
+  stop_id: "YORKTHA2"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447533
+  }
+  stop_id: "WHARHORT"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447559
+  }
+  stop_id: "WHARBYR2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447612
+  }
+  stop_id: "WHARELM2"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447658
+  }
+  stop_id: "WHARTEC2"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447701
+  }
+  stop_id: "LANGHOLB"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447731
+  }
+  stop_id: "MACKEMER"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447769
+  }
+  stop_id: "EMERWIN2"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447794
+  }
+  stop_id: "EMERHIW2"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447830
+  }
+  stop_id: "EMERPHY2"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447867
+  }
+  stop_id: "EMERRIDG"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447915
+  }
+  stop_id: "SOUTBAS1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447966
+  }
+  stop_id: "SOUTGAR1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447991
+  }
+  stop_id: "BERKGAR2"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606448018
+  }
+  stop_id: "BERKROB2"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606448044
+  }
+  stop_id: "BERKTOP2"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606448121
+  }
+  stop_id: "COMMTOP1"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606448164
+  }
+  stop_id: "COMMFOE1"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606448203
+  }
+  stop_id: "WONDCOM2"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606448237
+  }
+  stop_id: "WONDVIL2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448293
+  }
+  stop_id: "WONDVIS4"
+}
+stop_time_update {
+  stop_sequence: 56
+  arrival {
+    time: 1606448370
+  }
+  stop_id: "WESTMAL5"
+}
+vehicle {
+  id: "3527"
+  label: "527"
+}
+timestamp: 1606446468
+trip {
+  trip_id: "1340272"
+  start_time: "21:56:00"
+  start_date: "20201126"
+  route_id: "33"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446429
+  }
+  stop_id: "CHERCHC3"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446465
+  }
+  stop_id: "CHERPLA1"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446550
+  }
+  stop_id: "PLATTRO1"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446652
+  }
+  stop_id: "WESTPHA1"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446699
+  }
+  stop_id: "WESTPHA3"
+}
+stop_time_update {
+  stop_sequence: 15
+  arrival {
+    time: 1606446810
+  }
+  stop_id: "ALUMHAL2"
+}
+vehicle {
+  id: "3530"
+  label: "530"
+}
+timestamp: 1606446453
+trip {
+  trip_id: "1345795"
+  start_time: "21:49:00"
+  start_date: "20201126"
+  route_id: "15"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446375
+  }
+  stop_id: "BASEDUND"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446429
+  }
+  stop_id: "CATHBASE"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446474
+  }
+  stop_id: "CATHDEVO"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446511
+  }
+  stop_id: "CATHLANG"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606446552
+  }
+  stop_id: "CATHTECU"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606446596
+  }
+  stop_id: "CATHELMW"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606446642
+  }
+  stop_id: "BRUCWORT"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606446667
+  }
+  stop_id: "BRUCMARL"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446704
+  }
+  stop_id: "RIDOCRA1"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446731
+  }
+  stop_id: "RIDOING1"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446772
+  }
+  stop_id: "HORTRID1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446825
+  }
+  stop_id: "RICHHOT1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446885
+  }
+  stop_id: "RICHKIN1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 38
+  arrival {
+    time: 1606447005
+  }
+  stop_id: "RICHQUEE"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447005
+  }
+  stop_id: "RICHQUEE"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447068
+  }
+  stop_id: "RICHKEN1"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447129
+  }
+  stop_id: "RICHHYM1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447164
+  }
+  stop_id: "RICHPALL"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447237
+  }
+  stop_id: "RICHOXF1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447272
+  }
+  stop_id: "RICHJAM1"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447329
+  }
+  stop_id: "RICHGRO1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447365
+  }
+  stop_id: "RICHCHE1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447433
+  }
+  stop_id: "CHEAWAT1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447471
+  }
+  stop_id: "CHEACOL1"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447519
+  }
+  stop_id: "CHEAMAI1"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606447557
+  }
+  stop_id: "CHEAWIL1"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606447605
+  }
+  stop_id: "CHEAADE1"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606447678
+  }
+  stop_id: "CHEABRA1"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606447719
+  }
+  stop_id: "CHEAGAM1"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606447759
+  }
+  stop_id: "CHEABARK"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606447793
+  }
+  stop_id: "CHEABOU1"
+}
+stop_time_update {
+  stop_sequence: 56
+  departure {
+    time: 1606447852
+  }
+  stop_id: "CHEAMCNA"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606447902
+  }
+  stop_id: "MCNAVIC3"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606447921
+  }
+  stop_id: "MCNAVIC1"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606447965
+  }
+  stop_id: "MCNAHUR1"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606448023
+  }
+  stop_id: "HUROVES1"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606448085
+  }
+  stop_id: "HUROHIG1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606448156
+  }
+  stop_id: "HUROWEB1"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606448203
+  }
+  stop_id: "HUROSAN1"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606448259
+  }
+  stop_id: "BECKTOUK"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606448285
+  }
+  stop_id: "BECKLANC"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606448303
+  }
+  stop_id: "BECKLANG"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606448321
+  }
+  stop_id: "BECKTUDO"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606448344
+  }
+  stop_id: "BECKSORR"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606448387
+  }
+  stop_id: "SORRPERT"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606448414
+  }
+  stop_id: "SORRHURO"
+}
+stop_time_update {
+  stop_sequence: 71
+  arrival {
+    time: 1606448445
+  }
+  stop_id: "OAKVHURO"
+}
+vehicle {
+  id: "3533"
+  label: "533"
+}
+timestamp: 1606446471
+trip {
+  trip_id: "1338143"
+  start_time: "21:41:00"
+  start_date: "20201126"
+  route_id: "20"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606445955
+  }
+  stop_id: "QUEETALB"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606445983
+  }
+  stop_id: "QUENRIDO"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606446058
+  }
+  stop_id: "RIVEWIL2"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606446108
+  }
+  stop_id: "RIVEWHA4"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606446151
+  }
+  stop_id: "RIVEMTPL"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606446191
+  }
+  stop_id: "WOODRIVE"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606446249
+  }
+  stop_id: "WOODEDI1"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606446275
+  }
+  stop_id: "WOODCAM1"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606446319
+  }
+  stop_id: "PLATOXF1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606446351
+  }
+  stop_id: "CHERPLA2"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606446378
+  }
+  stop_id: "CHERCHC4"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606446412
+  }
+  stop_id: "CHERCHBL"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606446480
+  }
+  stop_id: "CHEROXF2"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606446556
+  }
+  stop_id: "BEAVOXF2"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606446615
+  }
+  stop_id: "PROUBEA2"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606446652
+  }
+  stop_id: "FOREHIL2"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606446699
+  }
+  stop_id: "PROUOXF3"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606446723
+  }
+  stop_id: "PROUOXF1"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606446740
+  }
+  stop_id: "PROUFAR3"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606446769
+  }
+  stop_id: "PROUFAR1"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606446825
+  }
+  stop_id: "BEAVHORI"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606446856
+  }
+  stop_id: "BEAVWOND"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606446939
+  }
+  stop_id: "CAPUBLSM"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606446981
+  }
+  stop_id: "CAPUCAPW"
+}
+stop_time_update {
+  stop_sequence: 55
+  arrival {
+    time: 1606447020
+  }
+  stop_id: "CAPUOXFO"
+}
+vehicle {
+  id: "3536"
+  label: "536"
+}
+timestamp: 1606446465
+trip {
+  trip_id: "1335111"
+  start_time: "21:30:00"
+  start_date: "20201126"
+  route_id: "13"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606446424
+  }
+  stop_id: "WELLHARL"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606446452
+  }
+  stop_id: "WELLMON4"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606446489
+  }
+  stop_id: "WELLMON2"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606446528
+  }
+  stop_id: "WELLBRA2"
+}
+stop_time_update {
+  stop_sequence: 47
+  arrival {
+    time: 1606446570
+  }
+  stop_id: "WHITOMA1"
+}
+vehicle {
+  id: "3540"
+  label: "540"
+}
+timestamp: 1606446447
+trip {
+  trip_id: "1343290"
+  start_time: "21:48:00"
+  start_date: "20201126"
+  route_id: "10"
+  direction_id: 7
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446362
+  }
+  stop_id: "SARNWES2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446437
+  }
+  stop_id: "SARNBRES"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446511
+  }
+  stop_id: "SARNSLEI"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446597
+  }
+  stop_id: "SARNLEYT"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446705
+  }
+  stop_id: "WONDSAR2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446793
+  }
+  stop_id: "WONDBEA2"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446834
+  }
+  stop_id: "WONDFAR4"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446855
+  }
+  stop_id: "WONDFAR2"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446885
+  }
+  stop_id: "WONDOXF2"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446917
+  }
+  stop_id: "WONDOXF4"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446955
+  }
+  stop_id: "WONDKIW2"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446997
+  }
+  stop_id: "WONDRIV2"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447171
+  }
+  stop_id: "WONDSPRI"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447218
+  }
+  stop_id: "WONDROSE"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447300
+  }
+  stop_id: "WONDCOM2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447330
+  }
+  stop_id: "WONDVIL2"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447378
+  }
+  stop_id: "WONDVIS4"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447425
+  }
+  stop_id: "WESTMAL4"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447471
+  }
+  stop_id: "VISCWON1"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447498
+  }
+  stop_id: "VISCWON5"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447565
+  }
+  stop_id: "WONDMMA4"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447604
+  }
+  stop_id: "WONDMMA2"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447647
+  }
+  stop_id: "WONDPVA2"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447678
+  }
+  stop_id: "WONDPVA4"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447732
+  }
+  stop_id: "SOUTWON1"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447790
+  }
+  stop_id: "SOUTSING"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447845
+  }
+  stop_id: "SOUTAND1"
+}
+stop_time_update {
+  stop_sequence: 42
+  departure {
+    time: 1606447874
+  }
+  stop_id: "SOUTSPRI"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447905
+  }
+  stop_id: "SOUTNOD1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447927
+  }
+  stop_id: "SOUTNOD3"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447979
+  }
+  stop_id: "SOUTWHA1"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447999
+  }
+  stop_id: "SOUTWHA3"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606448047
+  }
+  stop_id: "SOUTWHOK"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606448126
+  }
+  stop_id: "SOUTJAL1"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606448150
+  }
+  stop_id: "SOUTDUL1"
+}
+stop_time_update {
+  stop_sequence: 50
+  departure {
+    time: 1606448179
+  }
+  stop_id: "SOUTNIX1"
+}
+stop_time_update {
+  stop_sequence: 51
+  departure {
+    time: 1606448251
+  }
+  stop_id: "SOUTVER1"
+}
+stop_time_update {
+  stop_sequence: 52
+  departure {
+    time: 1606448308
+  }
+  stop_id: "WELLHARL"
+}
+stop_time_update {
+  stop_sequence: 53
+  departure {
+    time: 1606448335
+  }
+  stop_id: "WELLMON4"
+}
+stop_time_update {
+  stop_sequence: 54
+  departure {
+    time: 1606448371
+  }
+  stop_id: "WELLMON2"
+}
+stop_time_update {
+  stop_sequence: 55
+  departure {
+    time: 1606448409
+  }
+  stop_id: "WELLBRA2"
+}
+stop_time_update {
+  stop_sequence: 56
+  arrival {
+    time: 1606448445
+  }
+  stop_id: "WHITOMA4"
+}
+stop_time_update {
+  stop_sequence: 57
+  departure {
+    time: 1606448445
+  }
+  stop_id: "WHITOMA4"
+}
+stop_time_update {
+  stop_sequence: 58
+  departure {
+    time: 1606448555
+  }
+  stop_id: "BRADWEL3"
+}
+stop_time_update {
+  stop_sequence: 59
+  departure {
+    time: 1606448594
+  }
+  stop_id: "BRADWIL1"
+}
+stop_time_update {
+  stop_sequence: 60
+  departure {
+    time: 1606448615
+  }
+  stop_id: "BRADAGN1"
+}
+stop_time_update {
+  stop_sequence: 61
+  departure {
+    time: 1606448656
+  }
+  stop_id: "BRADADE1"
+}
+stop_time_update {
+  stop_sequence: 62
+  departure {
+    time: 1606448700
+  }
+  stop_id: "BRADADE3"
+}
+stop_time_update {
+  stop_sequence: 63
+  departure {
+    time: 1606448733
+  }
+  stop_id: "ADELOSG5"
+}
+stop_time_update {
+  stop_sequence: 64
+  departure {
+    time: 1606448768
+  }
+  stop_id: "ADELOSG7"
+}
+stop_time_update {
+  stop_sequence: 65
+  departure {
+    time: 1606448830
+  }
+  stop_id: "ADELOSG3"
+}
+stop_time_update {
+  stop_sequence: 66
+  departure {
+    time: 1606448873
+  }
+  stop_id: "SOUTADE1"
+}
+stop_time_update {
+  stop_sequence: 67
+  departure {
+    time: 1606448896
+  }
+  stop_id: "SOUTMIL5"
+}
+stop_time_update {
+  stop_sequence: 68
+  departure {
+    time: 1606448928
+  }
+  stop_id: "SOUTMIL3"
+}
+stop_time_update {
+  stop_sequence: 69
+  departure {
+    time: 1606448985
+  }
+  stop_id: "SOUTMIL1"
+}
+stop_time_update {
+  stop_sequence: 70
+  departure {
+    time: 1606449026
+  }
+  stop_id: "SOUTKOR1"
+}
+stop_time_update {
+  stop_sequence: 71
+  departure {
+    time: 1606449054
+  }
+  stop_id: "SOUTPOM1"
+}
+stop_time_update {
+  stop_sequence: 72
+  departure {
+    time: 1606449116
+  }
+  stop_id: "PONDPONV"
+}
+stop_time_update {
+  stop_sequence: 73
+  departure {
+    time: 1606449144
+  }
+  stop_id: "PONDMIR3"
+}
+stop_time_update {
+  stop_sequence: 74
+  departure {
+    time: 1606449165
+  }
+  stop_id: "PONDMIR1"
+}
+stop_time_update {
+  stop_sequence: 75
+  departure {
+    time: 1606449203
+  }
+  stop_id: "PONDDEV1"
+}
+stop_time_update {
+  stop_sequence: 76
+  departure {
+    time: 1606449221
+  }
+  stop_id: "PONDBAN1"
+}
+stop_time_update {
+  stop_sequence: 77
+  departure {
+    time: 1606449271
+  }
+  stop_id: "PONDOLDH"
+}
+stop_time_update {
+  stop_sequence: 78
+  departure {
+    time: 1606449312
+  }
+  stop_id: "COMMPOM3"
+}
+stop_time_update {
+  stop_sequence: 79
+  departure {
+    time: 1606449345
+  }
+  stop_id: "COMMDEV1"
+}
+stop_time_update {
+  stop_sequence: 80
+  departure {
+    time: 1606449389
+  }
+  stop_id: "COMMHIG1"
+}
+stop_time_update {
+  stop_sequence: 81
+  departure {
+    time: 1606449591
+  }
+  stop_id: "HIGBHAM1"
+}
+stop_time_update {
+  stop_sequence: 82
+  departure {
+    time: 1606449610
+  }
+  stop_id: "HIGBMAGE"
+}
+stop_time_update {
+  stop_sequence: 83
+  departure {
+    time: 1606449651
+  }
+  stop_id: "HIGBTRA1"
+}
+stop_time_update {
+  stop_sequence: 84
+  departure {
+    time: 1606449705
+  }
+  stop_id: "HIGBBRY1"
+}
+stop_time_update {
+  stop_sequence: 85
+  departure {
+    time: 1606449738
+  }
+  stop_id: "HIGBWIL1"
+}
+stop_time_update {
+  stop_sequence: 86
+  departure {
+    time: 1606449771
+  }
+  stop_id: "HIGBBEA1"
+}
+stop_time_update {
+  stop_sequence: 87
+  departure {
+    time: 1606449825
+  }
+  stop_id: "HIGBDUN1"
+}
+stop_time_update {
+  stop_sequence: 88
+  departure {
+    time: 1606449918
+  }
+  stop_id: "HIGBLPH1"
+}
+stop_time_update {
+  stop_sequence: 89
+  departure {
+    time: 1606449985
+  }
+  stop_id: "HIGBOXF1"
+}
+stop_time_update {
+  stop_sequence: 90
+  departure {
+    time: 1606450011
+  }
+  stop_id: "HIGBOXF3"
+}
+stop_time_update {
+  stop_sequence: 91
+  departure {
+    time: 1606450058
+  }
+  stop_id: "HIGBLAN1"
+}
+stop_time_update {
+  stop_sequence: 92
+  departure {
+    time: 1606450090
+  }
+  stop_id: "HIGBCHE1"
+}
+stop_time_update {
+  stop_sequence: 93
+  departure {
+    time: 1606450125
+  }
+  stop_id: "HIGBGOD1"
+}
+stop_time_update {
+  stop_sequence: 94
+  departure {
+    time: 1606450167
+  }
+  stop_id: "HIGBHURO"
+}
+stop_time_update {
+  stop_sequence: 95
+  departure {
+    time: 1606450206
+  }
+  stop_id: "HIGBHIC1"
+}
+stop_time_update {
+  stop_sequence: 96
+  departure {
+    time: 1606450232
+  }
+  stop_id: "HIGBFUL1"
+}
+stop_time_update {
+  stop_sequence: 97
+  departure {
+    time: 1606450292
+  }
+  stop_id: "FULLVES2"
+}
+stop_time_update {
+  stop_sequence: 98
+  departure {
+    time: 1606450325
+  }
+  stop_id: "FULLREGA"
+}
+stop_time_update {
+  stop_sequence: 99
+  departure {
+    time: 1606450364
+  }
+  stop_id: "MCNAMEL2"
+}
+stop_time_update {
+  stop_sequence: 100
+  departure {
+    time: 1606450389
+  }
+  stop_id: "MELSBRIA"
+}
+stop_time_update {
+  stop_sequence: 101
+  departure {
+    time: 1606450431
+  }
+  stop_id: "MELSSUSS"
+}
+stop_time_update {
+  stop_sequence: 102
+  arrival {
+    time: 1606450485
+  }
+  stop_id: "BARKHURO"
+}
+vehicle {
+  id: "3548"
+  label: "548"
+}
+timestamp: 1606446458
+trip {
+  trip_id: "1331737"
+  start_time: "22:01:00"
+  start_date: "20201126"
+  route_id: "06"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 2
+  departure {
+    time: 1606446334
+  }
+  stop_id: "DELAHAL2"
+}
+stop_time_update {
+  stop_sequence: 3
+  departure {
+    time: 1606446402
+  }
+  stop_id: "UNIVSUN1"
+}
+stop_time_update {
+  stop_sequence: 4
+  departure {
+    time: 1606446480
+  }
+  stop_id: "UNIVRIC1"
+}
+stop_time_update {
+  stop_sequence: 5
+  departure {
+    time: 1606446549
+  }
+  stop_id: "RICHHUR2"
+}
+stop_time_update {
+  stop_sequence: 6
+  departure {
+    time: 1606446612
+  }
+  stop_id: "RICHVIC2"
+}
+stop_time_update {
+  stop_sequence: 7
+  departure {
+    time: 1606446650
+  }
+  stop_id: "RICHCHE2"
+}
+stop_time_update {
+  stop_sequence: 8
+  departure {
+    time: 1606446696
+  }
+  stop_id: "RICHGRO2"
+}
+stop_time_update {
+  stop_sequence: 9
+  departure {
+    time: 1606446726
+  }
+  stop_id: "RICHJAM2"
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446780
+  }
+  stop_id: "RICHOXF2"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446826
+  }
+  stop_id: "RICHMILL"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446891
+  }
+  stop_id: "RICHCENT"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446935
+  }
+  stop_id: "RICHKEN2"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446976
+  }
+  stop_id: "RICHDUF2"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606447020
+  }
+  stop_id: "RICHQUE2"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 16
+  arrival {
+    time: 1606447080
+  }
+  stop_id: "RICHKIN4"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606447080
+  }
+  stop_id: "RICHKIN4"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606447143
+  }
+  stop_id: "RICHHOT2"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606447169
+  }
+  stop_id: "RICHSIM2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606447191
+  }
+  stop_id: "RICHGREY"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606447240
+  }
+  stop_id: "CARFCAR2"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606447279
+  }
+  stop_id: "CARFWOOD"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606447340
+  }
+  stop_id: "GRANHIG1"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606447380
+  }
+  stop_id: "HIGHGRA2"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606447425
+  }
+  stop_id: "HIGHWIN2"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606447472
+  }
+  stop_id: "HIGHEME2"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447503
+  }
+  stop_id: "HIGHCHE2"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447548
+  }
+  stop_id: "BASEHIG1"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447593
+  }
+  stop_id: "BASEWEL3"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447649
+  }
+  stop_id: "BASEWEL4"
+}
+stop_time_update {
+  stop_sequence: 31
+  arrival {
+    time: 1606447680
+  }
+  stop_id: "VICTZONB"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447680
+  }
+  stop_id: "VICTZONB"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447734
+  }
+  stop_id: "VICTLOT9"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447769
+  }
+  stop_id: "VICZONC"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447822
+  }
+  stop_id: "VICTWES1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447875
+  }
+  stop_id: "PARKWEC2"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447978
+  }
+  stop_id: "PARKMEHE"
+}
+stop_time_update {
+  stop_sequence: 38
+  arrival {
+    time: 1606448040
+  }
+  stop_id: "PARKMAEN"
+}
+vehicle {
+  id: "3550"
+  label: "550"
+}
+timestamp: 1606446470
+trip {
+  trip_id: "1337147"
+  start_time: "21:31:00"
+  start_date: "20201126"
+  route_id: "17"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606444817
+  }
+  stop_id: "OXFOFID1"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606444817
+  }
+  stop_id: "OXFOGUI1"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606444817
+  }
+  stop_id: "OXFOFRE1"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606444826
+  }
+  stop_id: "OXFOJUNI"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606444889
+  }
+  stop_id: "OXFOLAR1"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606444938
+  }
+  stop_id: "OXFOCAP1"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606445040
+  }
+  stop_id: "OXFOWON1"
+}
+vehicle {
+  id: "3561"
+  label: "561"
+}
+timestamp: 1606445434
+trip {
+  trip_id: "1345679"
+  start_time: "21:59:00"
+  start_date: "20201126"
+  route_id: "12"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446460
+  }
+  stop_id: "WHARCOM2"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446501
+  }
+  stop_id: "COMMGRD2"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446536
+  }
+  stop_id: "COMMHUXL"
+}
+stop_time_update {
+  stop_sequence: 17
+  departure {
+    time: 1606446563
+  }
+  stop_id: "VISCCOM2"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446598
+  }
+  stop_id: "VISCTAV2"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446639
+  }
+  stop_id: "VISCGAL2"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446675
+  }
+  stop_id: "NOTRVISC"
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446717
+  }
+  stop_id: "BELMNODA"
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446752
+  }
+  stop_id: "BELMSLAW"
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446781
+  }
+  stop_id: "BELMHILL"
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446811
+  }
+  stop_id: "BELMWHAR"
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446862
+  }
+  stop_id: "WHARWDAL"
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446915
+  }
+  stop_id: "WHARSOUT"
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606446946
+  }
+  stop_id: "WHARLEGE"
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606446989
+  }
+  stop_id: "WHARCAST"
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447043
+  }
+  stop_id: "WHARWON2"
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447084
+  }
+  stop_id: "WONDWHAR"
+}
+stop_time_update {
+  stop_sequence: 31
+  arrival {
+    time: 1606447095
+  }
+  stop_id: "WONDWHA2"
+}
+vehicle {
+  id: "3562"
+  label: "562"
+}
+timestamp: 1606446452
+trip {
+  trip_id: "1347368"
+  start_time: "21:54:00"
+  start_date: "20201126"
+  route_id: "02"
+  direction_id: 1
+}
+stop_time_update {
+  stop_sequence: 10
+  departure {
+    time: 1606446266
+  }
+  stop_id: "WHARPAUL"
+}
+stop_time_update {
+  stop_sequence: 11
+  departure {
+    time: 1606446312
+  }
+  stop_id: "WHARLEXI"
+}
+stop_time_update {
+  stop_sequence: 12
+  departure {
+    time: 1606446350
+  }
+  stop_id: "WHARMPL2"
+}
+stop_time_update {
+  stop_sequence: 13
+  departure {
+    time: 1606446382
+  }
+  stop_id: "RIVEWHA1"
+}
+stop_time_update {
+  stop_sequence: 14
+  departure {
+    time: 1606446409
+  }
+  stop_id: "RIVEWIL1"
+}
+stop_time_update {
+  stop_sequence: 15
+  departure {
+    time: 1606446482
+  }
+  stop_id: "DUNDRIDO"
+}
+stop_time_update {
+  stop_sequence: 16
+  departure {
+    time: 1606446523
+  }
+  stop_id: "KINGTALB"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 17
+  arrival {
+    time: 1606446570
+  }
+  stop_id: "KINGRIC1"
+}
+stop_time_update {
+  stop_sequence: 18
+  departure {
+    time: 1606446600
+  }
+  stop_id: "KINGRIC1"
+}
+stop_time_update {
+  stop_sequence: 19
+  departure {
+    time: 1606446680
+  }
+  stop_id: "KINGCLAR"
+}
+stop_time_update {
+  stop_sequence: 20
+  departure {
+    time: 1606446780
+  }
+  stop_id: "DUNDWEL5"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 21
+  departure {
+    time: 1606446818
+  }
+  stop_id: "DUNDWAT1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 22
+  departure {
+    time: 1606446845
+  }
+  stop_id: "DUNDCOL1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 23
+  departure {
+    time: 1606446887
+  }
+  stop_id: "DUNDMAI1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 24
+  departure {
+    time: 1606446926
+  }
+  stop_id: "DUNDWIL1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 25
+  departure {
+    time: 1606446960
+  }
+  stop_id: "DUNDADE1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 26
+  departure {
+    time: 1606446990
+  }
+  stop_id: "DUNDLYLE"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 27
+  departure {
+    time: 1606447026
+  }
+  stop_id: "DUNDHEWI"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 28
+  departure {
+    time: 1606447058
+  }
+  stop_id: "DUNDREC1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 29
+  departure {
+    time: 1606447086
+  }
+  stop_id: "DUNDONT1"
+  schedule_relationship: SKIPPED
+}
+stop_time_update {
+  stop_sequence: 30
+  departure {
+    time: 1606447126
+  }
+  stop_id: "DUNDQUE1"
+}
+stop_time_update {
+  stop_sequence: 31
+  departure {
+    time: 1606447150
+  }
+  stop_id: "DUNDEGE1"
+}
+stop_time_update {
+  stop_sequence: 32
+  departure {
+    time: 1606447180
+  }
+  stop_id: "DUNDKELL"
+}
+stop_time_update {
+  stop_sequence: 33
+  departure {
+    time: 1606447220
+  }
+  stop_id: "DUNDELE1"
+}
+stop_time_update {
+  stop_sequence: 34
+  departure {
+    time: 1606447262
+  }
+  stop_id: "DUNDASH1"
+}
+stop_time_update {
+  stop_sequence: 35
+  departure {
+    time: 1606447320
+  }
+  stop_id: "DUNDHIG1"
+}
+stop_time_update {
+  stop_sequence: 36
+  departure {
+    time: 1606447383
+  }
+  stop_id: "DUNDHAL3"
+}
+stop_time_update {
+  stop_sequence: 37
+  departure {
+    time: 1606447442
+  }
+  stop_id: "DUNDFIR1"
+}
+stop_time_update {
+  stop_sequence: 38
+  departure {
+    time: 1606447500
+  }
+  stop_id: "DUNDSASK"
+}
+stop_time_update {
+  stop_sequence: 39
+  departure {
+    time: 1606447553
+  }
+  stop_id: "DUNDMANI"
+}
+stop_time_update {
+  stop_sequence: 40
+  departure {
+    time: 1606447625
+  }
+  stop_id: "DUNDBEA1"
+}
+stop_time_update {
+  stop_sequence: 41
+  departure {
+    time: 1606447673
+  }
+  stop_id: "DUNDCLK1"
+}
+stop_time_update {
+  stop_sequence: 42
+  arrival {
+    time: 1606447740
+  }
+  stop_id: "ARGYMAL1"
+}
+stop_time_update {
+  stop_sequence: 43
+  departure {
+    time: 1606447740
+  }
+  stop_id: "ARGYMAL1"
+}
+stop_time_update {
+  stop_sequence: 44
+  departure {
+    time: 1606447827
+  }
+  stop_id: "DUNDEAS3"
+}
+stop_time_update {
+  stop_sequence: 45
+  departure {
+    time: 1606447844
+  }
+  stop_id: "DUNDWAV3"
+}
+stop_time_update {
+  stop_sequence: 46
+  departure {
+    time: 1606447865
+  }
+  stop_id: "DUNDWAV1"
+}
+stop_time_update {
+  stop_sequence: 47
+  departure {
+    time: 1606447893
+  }
+  stop_id: "DUNDFOR1"
+}
+stop_time_update {
+  stop_sequence: 48
+  departure {
+    time: 1606447910
+  }
+  stop_id: "DUNDSPE1"
+}
+stop_time_update {
+  stop_sequence: 49
+  departure {
+    time: 1606447945
+  }
+  stop_id: "DUNDCARL"
+}
+stop_time_update {
+  stop_sequence: 50
+  arrival {
+    time: 1606447980
+  }
+  stop_id: "BONADUND"
+}
+vehicle {
+  id: "3564"
+  label: "564"
+}
+timestamp: 1606446468

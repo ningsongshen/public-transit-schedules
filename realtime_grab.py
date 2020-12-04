@@ -5,6 +5,9 @@ import datetime
 # It's probably good enough to pull the data every minute and have the EC2 instance running 24/7. 
 
 def get_data():
+    """Pull data from GTFS realtime feed and write update to text file
+
+    """
     feed = gtfs_realtime_pb2.FeedMessage()
     response = urllib.request.urlopen('http://gtfs.ltconline.ca/TripUpdate/TripUpdates.pb')
     feed.ParseFromString(response.read())
@@ -18,4 +21,5 @@ def get_data():
 
     f.close()
 
-get_data()
+if __name__ == "__main__":
+    get_data()
