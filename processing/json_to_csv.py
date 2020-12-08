@@ -1,8 +1,9 @@
 import copy, csv, os
-import Update
-
+from .update import Update
+import datetime
     
 def json_updates_to_csv(infile, outfile):
+    a = datetime.datetime.now()
     with open(outfile, "w+", newline='', encoding='utf-8') as inf:
         outfwriter = csv.writer(inf)
         u = Update()
@@ -51,9 +52,11 @@ def json_updates_to_csv(infile, outfile):
 
 
                 line = f.readline().strip()
-                
+    b = datetime.datetime.now()
+    print(b - a)
+
 if __name__ == "__main__":
     infolder = "raw_data/updates/"
-    outfolder = "csv_data/updates"
+    outfolder = "csv_data/updates/"
     for i in os.listdir(infolder):
         json_updates_to_csv(infolder + i, outfolder + i[:-4] + ".csv")
