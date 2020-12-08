@@ -1,22 +1,12 @@
 import copy, csv, os
+import Update
 
-class Update:
-    trip_id = 0
-    start_time = ""
-    start_date = ""
-    route_id = ""
-    stop_sequence = 0
-    departure_time = 0
-    stop_id = ""
-    vehicle_id = ""
-    vehicle_label = ""
-    timestamp = 0
     
 def json_updates_to_csv(infile, outfile):
     with open(outfile, "w+", newline='', encoding='utf-8') as inf:
         outfwriter = csv.writer(inf)
         u = Update()
-        outfwriter.writerow([attr for attr in dir(u) if not callable(getattr(u, attr)) and not attr.startswith("__")])
+        outfwriter.writerow(["trip_id", "start_date", "start_time", "route_id", "stop_sequence", "departure_time", "stop_id", "vehicle_id", "vehicle_label", "timestamp"])
         to_add = []
         with open(infile, "r") as f:
             line = f.readline().strip()
@@ -64,7 +54,6 @@ def json_updates_to_csv(infile, outfile):
                 
 if __name__ == "__main__":
     infolder = "raw_data/updates/"
-    outfolder = "csv_data/updates/"
-    print(os.listdir(infolder)[0][:-4])
+    outfolder = "csv_data/updates"
     for i in os.listdir(infolder):
         json_updates_to_csv(infolder + i, outfolder + i[:-4] + ".csv")

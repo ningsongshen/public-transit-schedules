@@ -2,9 +2,10 @@ from google.transit import gtfs_realtime_pb2
 import urllib.request
 import datetime
 
+# This file runs on a virtual machine and is run by a cron job frequently
 # It's probably good enough to pull the data every minute and have the EC2 instance running 24/7. 
 
-def get_data():
+def get_realtime_feed_data():
     """Pull data from GTFS realtime feed and write update to text file
 
     """
@@ -22,4 +23,4 @@ def get_data():
     f.close()
 
 if __name__ == "__main__":
-    get_data()
+    get_realtime_feed_data()

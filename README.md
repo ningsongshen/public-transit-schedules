@@ -1,5 +1,29 @@
 # se-2200e
-Supervised Individual Research I - Transit Scheduling
+Scholar's Electives 2200E Supervised Individual Research I
+
+Title of Project: "Using Machine Learning to Optimize Transit Scheduling and Efficiency"
+
+This repository contains the code to collect, process, and model the data to better predict transit schedule deviations. We use the London Transit's GTFS feed as a data source and focus on the particulars regarding a medium-sized city and highly directional travel (to Western University).
+
+## System Overview
+
+_Ensure that the processing and the modelling do not run at the same time!_
+
+### Collecting
+
+- An AWS virtual machine is used to collect data continuously
+- The `realtime_grab.py` script pings the London Transit GTFS API and creates a text file
+- Crontab runs the `realtime_grab.py` script every minute when London Transit operates.
+- At regular intervals through the week, researcher manually transfers data from the VM to the raw data store with the `download.py` script
+
+### Processing
+
+WIP
+- A single entrypoint will convert GTFS data to malleable CSV files, use only the latest trip updates, and consolidate into a single file
+
+### Modelling
+
+## Other Notes
 
 Things to do:
 - Process the historical data and perform a linear regression
