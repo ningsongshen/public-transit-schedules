@@ -20,9 +20,11 @@ _Ensure that the processing and the modelling do not run at the same time!_
 
 WIP
 - A single entrypoint will convert GTFS data to malleable CSV files, use only the latest trip updates, and consolidate into a single file
-- Remove empty removes empty files (duh)
-- Remove header removes the CSV header (duh)
+- remote_empty: Remove empty removes empty files (duh)
+- remove_header: Remove header removes the CSV header (duh)
 - json_to_csv converts all GTFS files to CSV format in specified folders. If already converted, it does not convert again. Runs on about 40,000 files or 70,000,000 lines in <30 mins.
+- keep_latest: in each file all updates are kept. But we only want the latest stop_time_update, the rest can be discarded.
+- combine: combine all files in to one file
 
 ### Modelling
 
