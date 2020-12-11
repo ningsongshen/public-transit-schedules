@@ -25,6 +25,7 @@ WIP
 - json_to_csv converts all GTFS files to CSV format in specified folders. If already converted, it does not convert again. Runs on about 40,000 files or 70,000,000 lines in <30 mins.
 - keep_latest: in each file all updates are kept. But we only want the latest stop_time_update, the rest can be discarded.
 - combine: combine all files in to one file
+- schedule_matching: combine the scheduled data and the actual data so we can easily do modelling
 
 ### Modelling
 
