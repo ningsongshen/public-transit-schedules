@@ -18,6 +18,7 @@ _Ensure that the processing and the modelling do not run at the same time!_
 
 ### Processing
 
+Improvement: Now everything can be done in one click. Actually, two clicks: one to download all the files, and one to push everything through the pipeline into the result.csv file.
 WIP
 - A single entrypoint will convert GTFS data to malleable CSV files, use only the latest trip updates, and consolidate into a single file
 - remote_empty: Remove empty removes empty files (duh)

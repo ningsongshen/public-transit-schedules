@@ -1,11 +1,16 @@
-from processing.constants.locations import CLEAN_DIRECTORY
-import glob
+from processing.constants.locations import CLEAN_DIRECTORY, RESULT_DIRECTORY
+import glob, os
 
-read_files = glob.glob(CLEAN_DIRECTORY + '\*.csv')
+def combine(directory: str, outdirectory: str):
+    read_files = glob.glob(directory + '\*.csv')
+    with open(outdirectory + '/' + 'result.csv','ab') as outfile:
+        outfile.write(str.encode('trip_id,start_date,start_time,route_id,stop_sequence,departure_time,stop_id,vehicle_id,vehicle_label,timestamp\n'))
+        for f in read_files:
+            with open(f, 'rb') as infile:
+                next(infile)
+                outfile.write(infile.read())
 
-with open(CLEAN_DIRECTORY + '/' + 'result.csv','wb') as outfile:
-    outfile.write('trip_id,start_date,start_time,route_id,stop_sequence,departure_time,stop_id,vehicle_id,vehicle_label,timestamp')
-    for f in read_files:
-        with open(f, 'rb') as infile:
-            next(infile)
-            outfile.write(infile.read())
+            os.remove(f)
+
+if __name__ == "__main__":
+    combine(CLEAN_DIRECTORY, RESULT_DIRECTORY)

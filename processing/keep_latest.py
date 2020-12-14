@@ -18,7 +18,7 @@ def keep_latest(curfilename: str, curfilepath: str, nextfilepath: str):
     with open(curfilepath, mode='r') as curf, open(CLEAN_DIRECTORY + '/' + curfilename, mode='w+', newline='') as outf:
             reader = csv.reader(curf)
             outwriter = csv.writer(outf)
-            outwriter.writerow(["trip_id", "start_date", "start_time", "route_id", "stop_sequence", "departure_time", "stop_id", "vehicle_id", "vehicle_label", "timestamp"])
+            # outwriter.writerow(["trip_id", "start_date", "start_time", "route_id", "stop_sequence", "departure_time", "stop_id", "vehicle_id", "vehicle_label", "timestamp"])
             for row in reader:
                 key = row[0] + row[1] + row[2] + row[4]
                 if key in nextf_updates and nextf_updates[key] >= row[9]:
@@ -33,5 +33,6 @@ if __name__ == "__main__":
         curf = OUTPUT_DIRECTORY + "/" + files[i]
         nextf = OUTPUT_DIRECTORY + "/" + files[i+1]
         keep_latest(files[i], curf, nextf)
+        os.remove(files[i])
         sum += 1
     print(f'Done. {sum} files processed.')
