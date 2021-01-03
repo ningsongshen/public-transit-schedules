@@ -16,7 +16,7 @@ class Update:
         self.vehicle_label = ""
         self.timestamp = 0
 
-def json_updates_to_csv(infile, outfile) -> None:
+def gtfs_to_csv(infile: str, outfile: str) -> None:
     u = Update(0, "", "", "", 0, 0, "")
     entries = set()
     to_add = set()
@@ -69,6 +69,27 @@ def json_updates_to_csv(infile, outfile) -> None:
             # print(data)
             outfwriter.writerow(data)
 
+def convert_folder(indirectory: str, outdirectory: str) -> int:
+    total_files_converted = 0
+
+    converted = set()
+    # Get list of files already converted, without extension
+    for file in os.listdir(outdirectory):
+        converted.add(file[:-4])
+
+    for file in os.listdir(indirectory):
+        in_filepath = indirectory + "/" + file
+        if file[:-4] in converted:
+            os.remove(in_filepath)
+        elif file[:-4] not in converted:
+            in_filepath = indirectory + "/" + file
+            out_filepath = outdirectory + "/" + file[:-4] + '.csv'
+            gtfs_to_csv(in_filepath, out_filepath)
+            os.remove(in_filepath)
+            total_files_converted += 1
+
+    return total_files_converted
+    
 if __name__ == "__main__":
     print('Converting files to CSV...')
     sum = 0

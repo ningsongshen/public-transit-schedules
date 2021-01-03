@@ -1,8 +1,12 @@
 import paramiko
-from collecting.constants.ssh import *
+import time
+from .constants.ssh import *
 
 # TODO: Use AsyncSSH to speed up the process. It works now because I let it
 # run in bg, but its kinda slow.
+
+start = time.time()
+print(f'Start: {time.strftime("%H:%M:%S", time.localtime())}')
 
 ssh_client = paramiko.SSHClient()
 ssh_client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
@@ -15,7 +19,7 @@ ssh_client.connect(
 
 sftp_client = ssh_client.open_sftp()
 file_list = sftp_client.listdir(REMOTE_DIRECTORY)
-print("Getting files...")
+print(f'Getting files from {REMOTE_DIRECTORY}...')
 
 for file in file_list:
     remote_file_path = REMOTE_DIRECTORY + "/" + file
@@ -27,5 +31,5 @@ for file in file_list:
 # are created by the other script during the process are not downloaded and 
 # will be downloaded next time.
 
-print("Done.")
+print(f'Done. Total {time.time() - start} seconds elapsed.')
 sftp_client.close()

@@ -1,4 +1,4 @@
-from processing.constants.locations import CLEAN_DIRECTORY, RESULT_DIRECTORY
+from .constants.locations import CLEAN_DIRECTORY, RESULT_DIRECTORY
 import glob, os
 
 def combine(directory: str, outdirectory: str):

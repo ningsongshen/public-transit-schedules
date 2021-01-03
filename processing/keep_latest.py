@@ -1,8 +1,8 @@
 from processing.constants.locations import OUTPUT_DIRECTORY, CLEAN_DIRECTORY
 import csv, os
 
-def keep_latest(curfilename: str, curfilepath: str, nextfilepath: str):
-    ## FINAL ALGORITHM
+def keep_latest_times(curfilename: str, curfilepath: str, nextfilepath: str):
+    ## ALGORITHM USED
     # for each file, open the next file and create dict with all entries: key=unique, value=timestamp.
     # open current file, check if exists in dict AND has smaller timestamp
     # if so, continue
@@ -24,6 +24,18 @@ def keep_latest(curfilename: str, curfilepath: str, nextfilepath: str):
                 if key in nextf_updates and nextf_updates[key] >= row[9]:
                     continue
                 outwriter.writerow(row)
+
+def keep_latest(directory: str) -> int:
+    files = sorted(os.listdir(directory))
+    total_files_processed = 0
+    for i in range(len(files) - 1):
+        curf = directory + "/" + files[i]
+        nextf = directory + "/" + files[i+1]
+        keep_latest_times(files[i], curf, nextf)
+        total_files_processed += 1
+        os.remove(curf)
+
+    return total_files_processed
 
 if __name__ == "__main__":
     files = sorted(os.listdir(OUTPUT_DIRECTORY))

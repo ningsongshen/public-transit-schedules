@@ -1,10 +1,9 @@
-import os
-from processing.combine import combine
-from processing.keep_latest import keep_latest
-from processing.json_to_csv import json_updates_to_csv
-from processing.remove_header import remove_header
-from processing.constants.locations import CLEAN_DIRECTORY, LOCAL_DIRECTORY, OUTPUT_DIRECTORY, RESULT_DIRECTORY
-from processing.remove_empty import remove_empty_files
+import time
+from .combine import combine
+from .keep_latest import *
+from .json_to_csv import *
+from .constants.locations import *
+from .remove_empty import remove_empty_files
 
 def main():
     # Remote all empty files
@@ -13,48 +12,37 @@ def main():
     # Merge into one file
     # All in ONE CLICK
     
+    start = time.time()
+    print(f'Start: {time.strftime("%H:%M:%S", time.localtime())}')
+
     # Remove empty files from download
-    remove_empty_files(LOCAL_DIRECTORY)
+    print(f'Removing empty files from {LOCAL_DIRECTORY}...')
+    total_removed = remove_empty_files(LOCAL_DIRECTORY)
+    print(f'Done. {total_removed} files removed. {time.time() - start} seconds elapsed.')
 
     # Convert all files to CSV
     print('Converting files to CSV...')
-    sum = 0
-
-    converted = set()
-    for file in os.listdir(OUTPUT_DIRECTORY):
-        converted.add(file[:-4])
-
-    for file in os.listdir(LOCAL_DIRECTORY):
-        in_filepath = LOCAL_DIRECTORY + "/" + file
-        if file[:-4] in converted:
-            os.remove(in_filepath)
-        elif file[:-4] not in converted:
-            in_filepath = LOCAL_DIRECTORY + "/" + file
-            out_filepath = OUTPUT_DIRECTORY + "/" + file[:-4] + '.csv'
-            json_updates_to_csv(in_filepath, out_filepath)
-            os.remove(in_filepath)
-            sum += 1
-    print(f'Done. {sum} files converted.')
+    total_converted = convert_folder(LOCAL_DIRECTORY, OUTPUT_DIRECTORY)
+    print(f'Done. {total_converted} files converted. {time.time() - start} seconds elapsed.')
     
-    # Remove header from the files
+    # NOT NEEDED RIGHT NOW: Remove header from the files
     # remove_header(LOCAL_DIRECTORY, OUTPUT_DIRECTORY)
 
     # Keep only the latest timestamps
-    files = sorted(os.listdir(OUTPUT_DIRECTORY))
-    sum = 0
     print('Cleaning up data...')
-    for i in range(len(files) - 1):
-        curf = OUTPUT_DIRECTORY + "/" + files[i]
-        nextf = OUTPUT_DIRECTORY + "/" + files[i+1]
-        keep_latest(files[i], curf, nextf)
-        sum += 1
-        os.remove(curf)
-    print(f'Done. {sum} files processed.')
-    # DON'T DELETE THE REMAINIGN FILE, It's needed for the next pipeline download
-    
-    # Combine files and delete clean CSVs
-    remove_empty_files(CLEAN_DIRECTORY)
+    total_processed = keep_latest(OUTPUT_DIRECTORY)
+    print(f'Done. {total_processed} files processed. {time.time() - start} seconds elapsed.')
+    # DON'T DELETE THE REMAINING FILE, It's needed for the next pipeline download
+
+    # Remove empty files from cleaned
+    print(f'Removing empty files from {CLEAN_DIRECTORY}...')
+    total_removed = remove_empty_files(CLEAN_DIRECTORY)
+    print(f'Done. {total_removed} files removed. {time.time() - start} seconds elapsed.')
+
+    # Combine all files into one big file
+    print(f'Combining files...')
     combine(CLEAN_DIRECTORY, RESULT_DIRECTORY)
+    print(f'All processing done. Total {time.time() - start} seconds elapsed.')
 
 if __name__ == "__main__":
     main()
