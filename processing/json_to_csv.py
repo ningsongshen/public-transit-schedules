@@ -89,7 +89,7 @@ def convert_folder(indirectory: str, outdirectory: str) -> int:
             total_files_converted += 1
 
     return total_files_converted
-    
+
 if __name__ == "__main__":
     print('Converting files to CSV...')
     sum = 0
@@ -102,6 +102,6 @@ if __name__ == "__main__":
         if file[:-4] not in converted:
             in_filepath = LOCAL_DIRECTORY + "/" + file
             out_filepath = OUTPUT_DIRECTORY + "/" + file[:-4] + '.csv'
-            json_updates_to_csv(in_filepath, out_filepath)
+            gtfs_to_csv(in_filepath, out_filepath)
             sum += 1
     print(f'Done. {sum} files converted.')
