@@ -9,8 +9,8 @@ def keep_latest_times(curfilename: str, curfilepath: str, nextfilepath: str):
     # else, write line to new file
     # repeat for remaining files
 
-    # HOW DO I VERIFY THAT THIS IS CORRECT?
     nextf_updates = {}
+    
     with open(nextfilepath, mode='r') as nextf:
         reader = csv.reader(nextf)
         nextf_updates = {row[0] + row[1] + row[2] + row[4]: row[9] for row in reader}

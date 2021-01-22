@@ -1,9 +1,7 @@
-import copy, csv, os
-import datetime
-from processing.constants.locations import LOCAL_DIRECTORY, OUTPUT_DIRECTORY
+import csv
+import os
 
 class Update:
-
     def __init__(self, trip_id, start_time, start_date, route_id, stop_sequence, departure_time, stop_id) -> None:
         self.trip_id = trip_id
         self.start_time = start_time
@@ -91,6 +89,8 @@ def convert_folder(indirectory: str, outdirectory: str) -> int:
     return total_files_converted
 
 if __name__ == "__main__":
+    from processing.constants.locations import LOCAL_DIRECTORY, OUTPUT_DIRECTORY
+
     print('Converting files to CSV...')
     sum = 0
 

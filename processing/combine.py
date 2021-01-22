@@ -1,4 +1,3 @@
-from .constants.locations import CLEAN_DIRECTORY, RESULT_DIRECTORY
 import glob, os
 
 def combine(directory: str, outdirectory: str):
@@ -13,4 +12,5 @@ def combine(directory: str, outdirectory: str):
             os.remove(f)
 
 if __name__ == "__main__":
+    from .constants.locations import CLEAN_DIRECTORY, RESULT_DIRECTORY
     combine(CLEAN_DIRECTORY, RESULT_DIRECTORY)
